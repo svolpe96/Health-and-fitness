@@ -1,7 +1,21 @@
 # Week 1 — Return to Strength
 Start date: Monday, October 5, 2026
 
-This week is primarily a calibration week. The goal is to establish current tolerances and useful baselines rather than force progression from historical maxes.
+## Week objective
+Calibration and return-to-strength. Establish current working loads, rebuild competition-lift frequency, and finish the week with enough data to make Week 2 more individualized.
+
+### Weekly structure
+- Day 1 — Monday: Bench
+- Day 2 — Tuesday: Squat + Deadlift
+- Day 3 — Wednesday: Bench volume
+- Thursday: Rest
+- Day 4 — Friday: Squat + Bench
+- Day 5 — Saturday: Squat + Bench + Deadlift
+- Sunday: Rest + weekly review
+
+Small changes to the next workout may be made based on the previous session's RPE, pain response, recovery, or equipment availability. The whole block will not be rewritten because of one normal off-day.
+
+---
 
 ## Day 1 — Monday, October 5
 Completed.
@@ -40,6 +54,8 @@ Completed.
 - 30 lb per hand — 3x10
 - Last-set RPE: not recorded
 
+---
+
 ## Day 2 — Tuesday, October 6
 Completed.
 
@@ -59,7 +75,6 @@ Completed.
 - [x] Set 1 — 315 lb x 5 — RPE: 5
 - [x] Set 2 — 315 lb x 5 — RPE: 5
 - [x] Set 3 — 315 lb x 5 — RPE: 5
-- Target: approximately RPE 6
 - Groin during: 1/10
 - Groin after: 0/10
 
@@ -67,7 +82,6 @@ Completed.
 - [x] Set 1 — 405 lb x 3 — RPE: 5
 - [x] Set 2 — 405 lb x 3 — RPE: 5
 - [x] Set 3 — 405 lb x 3 — RPE: 5
-- Target: RPE 5–6
 - Groin during: 3/10
 - Groin after: 3/10
 
@@ -84,12 +98,171 @@ Completed.
 ### Leg Extension
 - 165 lb — 2x15
 - Last-set RPE: 9
-- Next exposure: reduce to approximately 150 lb to bring the set back toward the intended RPE 7–8 range.
+- Next exposure: reduce to approximately 150 lb.
 
-## Display and logging standard from this point forward
-Each training day keeps readiness and training together in the same session view.
+---
 
-Routine readiness is intentionally lean:
+## Day 3 — Wednesday, October 7
+Bench volume / upper hypertrophy.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if reported)
+- Caffeine timing: ___ (morning / afternoon / night)
+- Pre-training energy (1–5): ___
+
+### Competition Bench Press
+- [ ] Set 1 — 240 lb x 6 — RPE: ___
+- [ ] Set 2 — 240 lb x 6 — RPE: ___
+- [ ] Set 3 — 240 lb x 6 — RPE: ___
+- [ ] Set 4 — 240 lb x 6 — RPE: ___
+- Target: RPE 6–7
+
+### Seal Row
+- 160 lb — 3x12
+- Last-set target RPE: 7–8
+
+### Machine or Cable Chest Fly
+- 3x12–15
+- Last-set target RPE: 8
+
+### Dumbbell Lateral Raise
+- 25 lb — 3x20
+- Last-set target RPE: 8
+
+### Cable Triceps Pressdown
+- 3x12
+- Last-set target RPE: 8
+
+---
+
+## Thursday, October 8
+Rest / normal activity.
+
+No planned lifting. This is intentional before the Friday/Saturday lower-body exposures.
+
+---
+
+## Day 4 — Friday, October 9
+Squat + bench.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if reported)
+- Caffeine timing: ___ (morning / afternoon / night)
+- Pre-training energy (1–5): ___
+
+### Competition Squat
+Proceed with the programmed load if the groin is no worse than mild during warm-ups.
+
+- [ ] Set 1 — 325 lb x 5 — RPE: ___
+- [ ] Set 2 — 325 lb x 5 — RPE: ___
+- [ ] Set 3 — 325 lb x 5 — RPE: ___
+- Target: RPE 6
+- If groin symptoms are clearly worse than Tuesday, repeat 315 instead and report symptoms.
+
+### Close-Grip Bench Press
+- [ ] Set 1 — 225 lb x 6 — RPE: ___
+- [ ] Set 2 — 225 lb x 6 — RPE: ___
+- [ ] Set 3 — 225 lb x 6 — RPE: ___
+- Target: RPE 6–7
+
+### Lat Pulldown
+- 3x10
+- Last-set target RPE: 8
+
+### Leg Extension
+- 150 lb — 2x15
+- Last-set target RPE: 7–8
+
+### Dumbbell Lateral Raise
+- 3x20
+- Last-set target RPE: 8
+
+---
+
+## Day 5 — Saturday, October 10
+Technique squat + bench + deadlift.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if reported)
+- Caffeine timing: ___ (morning / afternoon / night)
+- Pre-training energy (1–5): ___
+
+### Controlled-Eccentric Squat
+Use approximately a 3-second descent. This is intentionally lighter than Friday.
+
+- [ ] Set 1 — 275 lb x 5 — RPE: ___
+- [ ] Set 2 — 275 lb x 5 — RPE: ___
+- [ ] Set 3 — 275 lb x 5 — RPE: ___
+- Target: RPE 5–6
+
+### Competition Bench Press
+- [ ] Set 1 — 225 lb x 8 — RPE: ___
+- [ ] Set 2 — 225 lb x 8 — RPE: ___
+- [ ] Set 3 — 225 lb x 8 — RPE: ___
+- Target: RPE 6–7
+
+### Frog-Stance Sumo Deadlift
+This is a lighter technique exposure because Tuesday produced 3/10 groin symptoms.
+
+- [ ] Set 1 — 365 lb x 4 — RPE: ___
+- [ ] Set 2 — 365 lb x 4 — RPE: ___
+- [ ] Set 3 — 365 lb x 4 — RPE: ___
+- Target: RPE 5
+- If groin discomfort is above 2/10 during warm-ups or clearly increases rep-to-rep, stop before the working sets and message me so we can substitute the movement.
+
+### Lying Leg Curl
+- 35 lb — 3x12
+- Last-set target RPE: 8
+
+### Chest-Supported Row
+- 3x12
+- Last-set target RPE: 8
+
+### Lateral Raise
+- 3x15–20
+- Last-set target RPE: 8
+
+---
+
+## Sunday, October 11 — Weekly Review
+No planned lifting.
+
+At the end of the week we will review:
+- set-by-set RPE trends for squat, bench, and deadlift
+- whether loads rose while RPE stayed controlled
+- groin response to squat vs sumo
+- bodyweight, sleep, hydration, caffeine, and pre-training energy
+- accessory performance and whether loads were appropriate
+- any technique notes or videos
+- whether Week 2 should progress load, reps, sets, or remain stable
+
+Week 2 will be written after this review rather than automatically adding weight everywhere.
+
+---
+
+## Logging standards
+Routine readiness:
 - Morning bodyweight
 - Sleep hours
 - Training time
@@ -98,8 +271,13 @@ Routine readiness is intentionally lean:
 - Caffeine timing as morning, afternoon, or night
 - Pre-training energy 1–5
 
-Competition lifts and important programmed strength variations are displayed one working set per line, with an RPE field beside each set.
+Competition lifts and important strength variations:
+- every working set displayed separately
+- RPE recorded for every working set
 
-Accessories/non-competition work remain condensed by default, with only the final-set RPE recorded unless there is a specific reason to track every set.
+Accessories:
+- condensed by default
+- final-set RPE recorded
 
-Pain or other symptoms are logged when relevant to a movement or session, rather than as mandatory readiness fields.
+Pain/symptoms:
+- recorded when relevant rather than as mandatory daily fields
