@@ -7,36 +7,46 @@ This week is primarily a calibration week. The goal is to establish current tole
 Completed.
 
 ### Competition Bench Press
-- 260 lb — 3x5
-- Session was reported around RPE 7
-- Individual set RPEs were not captured, so they remain blank in the raw dataset.
+- [x] Set 1 — 260 lb x 5 — RPE: not individually recorded
+- [x] Set 2 — 260 lb x 5 — RPE: not individually recorded
+- [x] Set 3 — 260 lb x 5 — RPE: not individually recorded
+- Session was reported around RPE 7 overall.
 
 ### Seal Row
 - 160 lb — 3x12
+- Last-set RPE: not recorded
 
 ### Incline Dumbbell Press
 - 75 lb per hand — 3x10
+- Last-set RPE: not recorded
 
 ### Dumbbell Lateral Raise
 - 25 lb per hand — 3x20
+- Last-set RPE: not recorded
 
 ### Dumbbell Skull Crusher
 - 30 lb per hand — 3x10
+- Last-set RPE: not recorded
 
 ## Day 2 — Squat + Deadlift calibration
 
 ### Competition Squat
-- 315 lb — 3x5
+- [ ] Set 1 — 315 lb x 5 — RPE: ___
+- [ ] Set 2 — 315 lb x 5 — RPE: ___
+- [ ] Set 3 — 315 lb x 5 — RPE: ___
 - Target: approximately RPE 6
-- Record RPE for each working set
-- Record groin symptoms during and after
+- Groin during: ___ /10
+- Groin after: ___ /10
 
 ### Competition-style Frog-Stance Sumo Deadlift
-- 405 lb — 3x3
+- [ ] Set 1 — 405 lb x 3 — RPE: ___
+- [ ] Set 2 — 405 lb x 3 — RPE: ___
+- [ ] Set 3 — 405 lb x 3 — RPE: ___
 - Target: RPE 5–6
-- Record RPE for each working set
-- Record groin symptoms during and after
+- Groin during: ___ /10
+- Groin after: ___ /10
 
-## Logging standard from this point forward
-Competition lifts: every working set gets its own RPE.
-Accessories/non-competition work: last-set RPE by default.
+## Display and logging standard from this point forward
+Competition lifts and important programmed strength variations are displayed one working set per line, with an RPE field beside each set.
+
+Accessories/non-competition work remain condensed by default, with only the final-set RPE recorded unless there is a specific reason to track every set.
