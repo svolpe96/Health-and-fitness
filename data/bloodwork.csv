@@ -1,0 +1,28 @@
+date,marker,value,unit,category,fasted,provider_flag,notes
+2026-09-21,SHBG,29.3,nmol/L,hormone,yes,average,
+2026-09-21,Total Testosterone,646,ng/dL,hormone,yes,average,
+2026-09-21,Cortisol,14.7,ug/dL,hormone,yes,optimal,
+2026-09-21,Estrogen,21.8,pg/mL,hormone,yes,optimal,
+2026-09-21,Free Testosterone,141.71,pg/mL,hormone,yes,optimal,
+2026-09-21,Fructosamine,288,umol/L,metabolic,yes,out_of_range,
+2026-09-21,Creatinine,1.25,mg/dL,kidney,yes,out_of_range,Not taking creatine; probable dehydration reported
+2026-09-21,TSH,3.72,uIU/mL,thyroid,yes,average,
+2026-09-21,Vitamin D,35.2,ng/mL,vitamin,yes,average,
+2026-09-21,eGFR,79.44,mL/min/1.73m2,kidney,yes,average,Creatinine-based estimate
+2026-09-21,Albumin,4.78,g/dL,metabolic,yes,optimal,
+2026-09-21,Alkaline Phosphatase,79.6,U/L,liver_bone,yes,optimal,
+2026-09-21,GGT,12.5,U/L,liver,yes,optimal,
+2026-09-21,Ferritin,323,ng/mL,iron,yes,optimal,
+2026-09-21,Triglycerides,76.6,mg/dL,lipid,yes,optimal,
+2026-09-21,Triglycerides HDL Ratio,1.23,ratio,yes,optimal,
+2026-09-21,Uric Acid,4.67,mg/dL,metabolic,yes,optimal,
+2026-09-21,Total Cholesterol,256,mg/dL,lipid,yes,out_of_range,Family history of high cholesterol reported
+2026-09-21,LDL Cholesterol,178.78,mg/dL,lipid,yes,out_of_range,Family history of high cholesterol reported
+2026-09-21,ApoB,117,mg/dL,lipid,yes,out_of_range,Family history of high cholesterol reported
+2026-09-21,Total Cholesterol HDL Ratio,4.13,ratio,yes,average,
+2026-09-21,hs-CRP,1.45,mg/L,inflammation,yes,average,
+2026-09-21,Hematocrit,41.3,percent,hematology,yes,average,
+2026-09-21,HDL Cholesterol,61.9,mg/dL,lipid,yes,optimal,
+2026-09-21,Hemoglobin,14.0,g/dL,hematology,yes,optimal,
+2026-09-21,LDL ApoB Ratio,1.52,ratio,yes,optimal,
+2026-09-21,Remnant Cholesterol,15.32,mg/dL,lipid,yes,optimal,
