@@ -14,3 +14,17 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,Load interpreted as reported; clarify per-hand vs total if needed
 2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,Load interpreted as reported; clarify per-hand vs total if needed
 2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,,,Load interpreted as reported; clarify per-hand vs total if needed
+2026-10-06,2,167,7,17:00,2,300,morning,4,Squat,competition,competition squat,315,5,1,5,,,Groin during session 1/10; after 0/10
+2026-10-06,2,167,7,17:00,2,300,morning,4,Squat,competition,competition squat,315,5,2,5,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Squat,competition,competition squat,315,5,3,5,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Deadlift,competition,frog-stance sumo deadlift,405,3,1,5,,,Groin during session 3/10; after 3/10
+2026-10-06,2,167,7,17:00,2,300,morning,4,Deadlift,competition,frog-stance sumo deadlift,405,3,2,5,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Deadlift,competition,frog-stance sumo deadlift,405,3,3,5,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,1,,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,2,,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,3,,6,,Last-set RPE 6
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral leg curl,,12,1,,,,Load not reported
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral leg curl,,12,2,,,,Load not reported
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral leg curl,,12,3,,,,Load and last-set RPE not reported
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,1,,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,2,,9,,Last-set RPE 9; planned reduction to 150 lb next exposure
