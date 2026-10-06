@@ -1,16 +1,16 @@
-date,session_day,morning_bodyweight_lb,sleep_hours,sleep_quality_1_5,morning_energy_1_5,morning_soreness_1_5,groin_morning_0_10,knee_morning_0_10,back_morning_0_10,training_time,hydration_pretraining_1_5,fluids_pretraining_oz,caffeine_mg,caffeine_time,pretraining_energy_1_5,pretraining_stress_1_5,exercise,category,variation,load_lb,reps,set_number,rpe,last_set_rpe,pain_0_10,notes
-2026-10-05,1,,,,,,,,,,,,,,,,Bench Press,competition,competition bench,260,5,1,,,,Individual set RPE not captured; session reported around RPE 7
-2026-10-05,1,,,,,,,,,,,,,,,,Bench Press,competition,competition bench,260,5,2,,,,Individual set RPE not captured; session reported around RPE 7
-2026-10-05,1,,,,,,,,,,,,,,,,Bench Press,competition,competition bench,260,5,3,,,,Individual set RPE not captured; session reported around RPE 7
-2026-10-05,1,,,,,,,,,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,1,,,,
-2026-10-05,1,,,,,,,,,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,2,,,,
-2026-10-05,1,,,,,,,,,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,3,,,,
-2026-10-05,1,,,,,,,,,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,1,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,2,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,3,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,1,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,2,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,3,,,,Load is per hand
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,Load interpreted as reported; clarify per-hand vs total if needed
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,Load interpreted as reported; clarify per-hand vs total if needed
-2026-10-05,1,,,,,,,,,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,,,Load interpreted as reported; clarify per-hand vs total if needed
+date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretraining_1_5,caffeine_mg,caffeine_time_of_day,pretraining_energy_1_5,exercise,category,variation,load_lb,reps,set_number,rpe,last_set_rpe,pain_0_10,notes
+2026-10-05,1,,,,,,,,Bench Press,competition,competition bench,260,5,1,,,,Individual set RPE not captured; session reported around RPE 7
+2026-10-05,1,,,,,,,,Bench Press,competition,competition bench,260,5,2,,,,Individual set RPE not captured; session reported around RPE 7
+2026-10-05,1,,,,,,,,Bench Press,competition,competition bench,260,5,3,,,,Individual set RPE not captured; session reported around RPE 7
+2026-10-05,1,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,1,,,,
+2026-10-05,1,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,2,,,,
+2026-10-05,1,,,,,,,,Seal Row,accessory,chest-supported seal row,160,12,3,,,,
+2026-10-05,1,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,1,,,,Load is per hand
+2026-10-05,1,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,2,,,,Load is per hand
+2026-10-05,1,,,,,,,,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,3,,,,Load is per hand
+2026-10-05,1,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,1,,,,Load is per hand
+2026-10-05,1,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,2,,,,Load is per hand
+2026-10-05,1,,,,,,,,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,3,,,,Load is per hand
+2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,Load interpreted as reported; clarify per-hand vs total if needed
+2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,Load interpreted as reported; clarify per-hand vs total if needed
+2026-10-05,1,,,,,,,,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,,,Load interpreted as reported; clarify per-hand vs total if needed
