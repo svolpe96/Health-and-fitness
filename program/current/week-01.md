@@ -70,6 +70,19 @@ Completed.
 - Groin during: ___ /10
 - Groin after: ___ /10
 
+### Leg Press
+- 3x10
+- Last-set target RPE: 7
+- Use a load that allows controlled depth without aggravating the groin.
+
+### Seated or Lying Leg Curl
+- 3x12
+- Last-set target RPE: 7–8
+
+### Leg Extension
+- 2x15
+- Last-set target RPE: 7–8
+
 ## Display and logging standard from this point forward
 Each training day keeps readiness and training together in the same session view.
 
