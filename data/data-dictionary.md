@@ -9,20 +9,14 @@ One row equals one working set. Session-level readiness fields are repeated acro
 - `date`: training date, ISO format YYYY-MM-DD
 - `session_day`: day number inside current training week
 - `morning_bodyweight_lb`: morning bodyweight, ideally after bathroom and before food/fluid
-- `sleep_hours`: total sleep from the previous night
-- `sleep_quality_1_5`: subjective sleep quality
-- `morning_energy_1_5`: energy shortly after waking
-- `morning_soreness_1_5`: general training soreness
-- `groin_morning_0_10`: groin symptoms on waking
-- `knee_morning_0_10`: knee symptoms on waking
-- `back_morning_0_10`: back symptoms on waking
+- `sleep_hours`: total sleep from the previous night, recorded as the best numeric estimate available (decimals are fine)
 - `training_time`: approximate start time of training
-- `hydration_pretraining_1_5`: subjective hydration immediately before training
-- `fluids_pretraining_oz`: total fluid consumed before training when known
-- `caffeine_mg`: total caffeine consumed before training
-- `caffeine_time`: time of the most recent pre-training caffeine dose
-- `pretraining_energy_1_5`: energy immediately before training
-- `pretraining_stress_1_5`: stress immediately before training
+- `hydration_pretraining_1_5`: subjective hydration immediately before training; 1 = not hydrated, 5 = very hydrated
+- `caffeine_mg`: caffeine amount before training, recorded only when the athlete reports the amount
+- `caffeine_time_of_day`: simple timing category for reported caffeine: morning, afternoon, or night
+- `pretraining_energy_1_5`: energy immediately before training; 1 = terrible, 5 = great
+
+Removed from routine readiness logging: sleep quality, morning energy, morning soreness, routine morning groin/knee/back pain ratings, fluids-before-training totals, and pre-training stress. These can still be noted when specifically relevant.
 
 ### Set-level fields
 - `exercise`: readable exercise name
@@ -33,13 +27,13 @@ One row equals one working set. Session-level readiness fields are repeated acro
 - `set_number`: working-set sequence
 - `rpe`: set-specific RPE; required for competition lifts
 - `last_set_rpe`: accessory/non-comp default RPE field, generally populated only on final set
-- `pain_0_10`: movement-specific pain when relevant
-- `notes`: technique, equipment, per-hand load, or other context
+- `pain_0_10`: movement-specific pain when relevant; not part of the routine readiness check-in
+- `notes`: technique, equipment, symptoms, per-hand load, or other context
 
 Do not backfill guessed values.
 
 ## daily_readiness.csv
-Deprecated for primary logging as of October 2026. Readiness is now captured directly in `training_sets.csv` so the full session context can be viewed in one place. The file is retained only to avoid deleting repository history.
+Deprecated for primary logging as of October 2026. Readiness is captured directly in `training_sets.csv` so the full session context can be viewed in one place. The file is retained only to avoid deleting repository history.
 
 ## bodyweight.csv
 Optional derived trend file. Morning bodyweight should be entered in the combined training log first; rolling averages can be generated later for analysis.
