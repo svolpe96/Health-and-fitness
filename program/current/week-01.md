@@ -76,11 +76,10 @@ Completed.
 - Last-set RPE: 6
 - Bilateral
 
-### Seated or Lying Leg Curl
-- 3x12
+### Lying Leg Curl
+- 35 lb — 3x12
 - Bilateral
-- Load: not reported
-- Last-set RPE: not reported
+- Last-set RPE: 8
 
 ### Leg Extension
 - 165 lb — 2x15
