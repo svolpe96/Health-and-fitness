@@ -40,48 +40,52 @@ Completed.
 - 30 lb per hand — 3x10
 - Last-set RPE: not recorded
 
-## Day 2 — Squat + Deadlift calibration
+## Day 2 — Tuesday, October 6
+Completed.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 167 lb
+- Sleep: 7 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if reported)
-- Caffeine timing: ___ (morning / afternoon / night)
-- Pre-training energy (1–5): ___
+- Training time: 5:00 PM
+- Hydration (1–5): 2
+- Caffeine before training: 300 mg
+- Caffeine timing: morning
+- Pre-training energy (1–5): 4
 
 ### Competition Squat
-- [ ] Set 1 — 315 lb x 5 — RPE: ___
-- [ ] Set 2 — 315 lb x 5 — RPE: ___
-- [ ] Set 3 — 315 lb x 5 — RPE: ___
+- [x] Set 1 — 315 lb x 5 — RPE: 5
+- [x] Set 2 — 315 lb x 5 — RPE: 5
+- [x] Set 3 — 315 lb x 5 — RPE: 5
 - Target: approximately RPE 6
-- Groin during: ___ /10
-- Groin after: ___ /10
+- Groin during: 1/10
+- Groin after: 0/10
 
 ### Competition-style Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 405 lb x 3 — RPE: ___
-- [ ] Set 2 — 405 lb x 3 — RPE: ___
-- [ ] Set 3 — 405 lb x 3 — RPE: ___
+- [x] Set 1 — 405 lb x 3 — RPE: 5
+- [x] Set 2 — 405 lb x 3 — RPE: 5
+- [x] Set 3 — 405 lb x 3 — RPE: 5
 - Target: RPE 5–6
-- Groin during: ___ /10
-- Groin after: ___ /10
+- Groin during: 3/10
+- Groin after: 3/10
 
 ### Leg Press
-- 3x10
-- Last-set target RPE: 7
-- Use a load that allows controlled depth without aggravating the groin.
+- 360 lb — 3x10
+- Last-set RPE: 6
+- Bilateral
 
 ### Seated or Lying Leg Curl
 - 3x12
-- Last-set target RPE: 7–8
+- Bilateral
+- Load: not reported
+- Last-set RPE: not reported
 
 ### Leg Extension
-- 2x15
-- Last-set target RPE: 7–8
+- 165 lb — 2x15
+- Last-set RPE: 9
+- Next exposure: reduce to approximately 150 lb to bring the set back toward the intended RPE 7–8 range.
 
 ## Display and logging standard from this point forward
 Each training day keeps readiness and training together in the same session view.
