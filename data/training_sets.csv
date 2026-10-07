@@ -28,3 +28,19 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,35,12,3,,8,,Last-set RPE 8
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,1,,,,
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,2,,9,,Last-set RPE 9; planned reduction to 150 lb next exposure
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Bench Press,competition,competition bench,240,6,1,6,,,Caffeine taken at 4:30 PM
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Bench Press,competition,competition bench,240,6,2,6,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Bench Press,competition,competition bench,240,6,3,5,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Bench Press,competition,competition bench,240,6,4,5,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Seal Row,accessory,chest-supported seal row,160,12,1,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Seal Row,accessory,chest-supported seal row,160,12,2,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Seal Row,accessory,chest-supported seal row,160,8,3,,,,Could not complete 12 reps on final set; completed 8; reduce load by 10 lb next exposure
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Chest Fly,accessory,high-to-low cable chest fly,100,,1,,,,Programmed 12-15 reps; exact reps not reported; foot setting 6 and arms setting A
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Chest Fly,accessory,high-to-low cable chest fly,100,,2,,,,Programmed 12-15 reps; exact reps not reported; foot setting 6 and arms setting A
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Chest Fly,accessory,high-to-low cable chest fly,100,,3,,8,,Programmed 12-15 reps; exact reps not reported; last-set RPE 8; foot setting 6 and arms setting A
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,1,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,2,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,25,20,3,,8,,Last-set RPE 8; load is per hand
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,1,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,2,,,,
+2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,3,,8,,Last-set RPE 8
