@@ -103,42 +103,47 @@ Completed.
 ---
 
 ## Day 3 — Wednesday, October 7
-Bench volume / upper hypertrophy.
+Completed.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 165.2 lb
+- Sleep: 8 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if reported)
-- Caffeine timing: ___ (morning / afternoon / night)
-- Pre-training energy (1–5): ___
+- Training time: 5:00 PM
+- Hydration (1–5): 2
+- Caffeine before training: 200 mg
+- Caffeine timing: afternoon (4:30 PM)
+- Pre-training energy (1–5): 4
 
 ### Competition Bench Press
-- [ ] Set 1 — 240 lb x 6 — RPE: ___
-- [ ] Set 2 — 240 lb x 6 — RPE: ___
-- [ ] Set 3 — 240 lb x 6 — RPE: ___
-- [ ] Set 4 — 240 lb x 6 — RPE: ___
-- Target: RPE 6–7
+- [x] Set 1 — 240 lb x 6 — RPE: 6
+- [x] Set 2 — 240 lb x 6 — RPE: 6
+- [x] Set 3 — 240 lb x 6 — RPE: 5
+- [x] Set 4 — 240 lb x 6 — RPE: 5
+- Target was RPE 6–7.
 
 ### Seal Row
-- 160 lb — 3x12
-- Last-set target RPE: 7–8
+- Set 1 — 160 lb x 12
+- Set 2 — 160 lb x 12
+- Set 3 — 160 lb x 8
+- Final set did not reach the planned 12 reps.
+- Next exposure: reduce approximately 10 lb.
 
-### Machine or Cable Chest Fly
-- 3x12–15
-- Last-set target RPE: 8
+### High-to-Low Cable Chest Fly
+- 100 lb — 3 sets of 12–15 rep range
+- Last-set RPE: 8
+- Exact reps were not reported.
+- Machine/setup note: foot setting 6; arms setting A.
 
 ### Dumbbell Lateral Raise
 - 25 lb — 3x20
-- Last-set target RPE: 8
+- Last-set RPE: 8
 
 ### Cable Triceps Pressdown
-- 3x12
-- Last-set target RPE: 8
+- 100 lb — 3x12
+- Last-set RPE: 8
 
 ---
 
