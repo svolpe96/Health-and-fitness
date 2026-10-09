@@ -184,9 +184,11 @@ Proceed with the programmed load if the groin is no worse than mild during warm-
 - [ ] Set 3 — 225 lb x 6 — RPE: ___
 - Target: RPE 6–7
 
-### Lat Pulldown
+### Medium-Close Neutral-Grip Lat Pulldown
+- Attachment: parallel neutral-grip handle (the close/medium neutral attachment shown in your gym photo)
 - 3x10
 - Last-set target RPE: 8
+- Slight torso lean; drive elbows down toward the hips. Do not turn it into a row.
 
 ### Leg Extension
 - 150 lb — 2x15
@@ -240,11 +242,13 @@ This is a lighter technique exposure because Tuesday produced 3/10 groin symptom
 - 35 lb — 3x12
 - Last-set target RPE: 8
 
-### Chest-Supported Row
-- 3x12
-- Last-set target RPE: 8
+### Barbell Seal Row
+- Grip: overhand, approximately shoulder-width to slightly wider
+- 150 lb — 3x12
+- Last-set target RPE: 7–8
+- This uses the 10 lb reduction from Wednesday's 160 lb shortfall.
 
-### Lateral Raise
+### Dumbbell Lateral Raise
 - 3x15–20
 - Last-set target RPE: 8
 
@@ -283,6 +287,7 @@ Competition lifts and important strength variations:
 Accessories:
 - condensed by default
 - final-set RPE recorded
+- exact variation/setup specified when relevant (grip, stance, attachment, implement, tempo, angle, bilateral/unilateral)
 
 Pain/symptoms:
 - recorded when relevant rather than as mandatory daily fields
