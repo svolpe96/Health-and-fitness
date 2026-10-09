@@ -24,6 +24,7 @@ Return-to-strength / reaccumulation, starting October 5, 2026.
 4. Never invent missing RPE, pain, velocity, sleep, or bodyweight data.
 5. Historical maxes are context only and are not treated as current 1RMs.
 6. Major program changes require a documented reason in `coaching/decisions.md`.
+7. Exact exercise variation/setup must be stated when relevant: grip, stance, attachment, implement, angle, tempo, and bilateral vs unilateral. Avoid generic labels like "lat pulldown" when a specific variation is intended.
 
 ## Current performance context
 Historical gym bests: 585 squat / 355 bench / 610 deadlift.
