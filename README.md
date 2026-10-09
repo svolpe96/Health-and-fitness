@@ -25,6 +25,7 @@ Return-to-strength / reaccumulation, starting October 5, 2026.
 5. Historical maxes are context only and are not treated as current 1RMs.
 6. Major program changes require a documented reason in `coaching/decisions.md`.
 7. Exact exercise variation/setup must be stated when relevant: grip, stance, attachment, implement, angle, tempo, and bilateral vs unilateral. Avoid generic labels like "lat pulldown" when a specific variation is intended.
+8. Coach selects the exact variation judged best for the current goal and context. Do not present multiple variation choices by default. Only substitute when equipment, pain, safety, or a clearly better coaching reason requires it.
 
 ## Current performance context
 Historical gym bests: 585 squat / 355 bench / 610 deadlift.
