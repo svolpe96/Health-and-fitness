@@ -189,7 +189,7 @@ Completed.
 
 ### Bilateral Leg Extension
 - 150 lb — 2x16
-- Last-set RPE: not reported
+- Last-set RPE: 8
 
 ### Dumbbell Lateral Raise
 - 20 lb per hand — 3x20
