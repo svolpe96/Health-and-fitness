@@ -23,9 +23,9 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,1,,,,
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,2,,,,
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Press,accessory,bilateral leg press,360,10,3,,6,,Last-set RPE 6
-2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,35,12,1,,,,
-2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,35,12,2,,,,
-2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,35,12,3,,8,,Last-set RPE 8
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,50,12,1,,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,50,12,2,,,,
+2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Curl,accessory,bilateral lying leg curl,50,12,3,,8,,Last-set RPE 8
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,1,,,,
 2026-10-06,2,167,7,17:00,2,300,morning,4,Leg Extension,accessory,leg extension,165,15,2,,9,,Last-set RPE 9; planned reduction to 150 lb next exposure
 2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Bench Press,competition,competition bench,240,6,1,6,,,Caffeine taken at 4:30 PM
