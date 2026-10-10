@@ -236,7 +236,7 @@ This is a lighter technique exposure because Tuesday produced 3/10 groin symptom
 - If groin discomfort is above 2/10 during warm-ups or clearly increases rep-to-rep, stop before the working sets and message me so we can substitute the movement.
 
 ### Lying Leg Curl
-- 35 lb — 3x12
+- 50 lb — 3x12
 - Last-set target RPE: 8
 
 ### Barbell Seal Row
