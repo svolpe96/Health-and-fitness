@@ -155,48 +155,46 @@ No planned lifting. This is intentional before the Friday/Saturday lower-body ex
 ---
 
 ## Day 4 — Friday, October 9
-Squat + bench.
+Completed.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 165.8 lb
+- Sleep: 6 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if reported)
-- Caffeine timing: ___ (morning / afternoon / night)
-- Pre-training energy (1–5): ___
+- Training time: 5:00 PM
+- Hydration (1–5): 2
+- Caffeine before training: 200 mg
+- Caffeine timing: afternoon (4:30 PM)
+- Pre-training energy (1–5): 3
 
 ### Competition Squat
-Proceed with the programmed load if the groin is no worse than mild during warm-ups.
-
-- [ ] Set 1 — 325 lb x 5 — RPE: ___
-- [ ] Set 2 — 325 lb x 5 — RPE: ___
-- [ ] Set 3 — 325 lb x 5 — RPE: ___
-- Target: RPE 6
-- If groin symptoms are clearly worse than Tuesday, repeat 315 instead and report symptoms.
+- [x] Set 1 — 325 lb x 5 — RPE: 5
+- [x] Set 2 — 325 lb x 5 — RPE: 5
+- [x] Set 3 — 325 lb x 5 — RPE: 5
+- Target was RPE 6
+- Groin: 1/10
 
 ### Close-Grip Bench Press
-- [ ] Set 1 — 225 lb x 6 — RPE: ___
-- [ ] Set 2 — 225 lb x 6 — RPE: ___
-- [ ] Set 3 — 225 lb x 6 — RPE: ___
-- Target: RPE 6–7
+- [x] Set 1 — 225 lb x 6 — RPE: 6
+- [x] Set 2 — 225 lb x 6 — RPE: 6
+- [x] Set 3 — 225 lb x 6 — RPE: not reported
+- Target was RPE 6–7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- Attachment: parallel neutral-grip handle (the close/medium neutral attachment shown in your gym photo)
-- 3x10
-- Last-set target RPE: 8
-- Slight torso lean; drive elbows down toward the hips. Do not turn it into a row.
+- Attachment: parallel neutral-grip handle
+- 130 lb — 3x10
+- Last-set RPE: not reported
 
-### Leg Extension
-- 150 lb — 2x15
-- Last-set target RPE: 7–8
+### Bilateral Leg Extension
+- 150 lb — 2x16
+- Last-set RPE: not reported
 
 ### Dumbbell Lateral Raise
 - 3x20
-- Last-set target RPE: 8
+- Load: not reported
+- Last-set RPE: not reported
 
 ---
 
