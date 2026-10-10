@@ -179,22 +179,21 @@ Completed.
 ### Close-Grip Bench Press
 - [x] Set 1 — 225 lb x 6 — RPE: 6
 - [x] Set 2 — 225 lb x 6 — RPE: 6
-- [x] Set 3 — 225 lb x 6 — RPE: not reported
+- [x] Set 3 — 225 lb x 6 — RPE: 6
 - Target was RPE 6–7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
 - Attachment: parallel neutral-grip handle
 - 130 lb — 3x10
-- Last-set RPE: not reported
+- Last-set RPE: 8
 
 ### Bilateral Leg Extension
 - 150 lb — 2x16
 - Last-set RPE: not reported
 
 ### Dumbbell Lateral Raise
-- 3x20
-- Load: not reported
-- Last-set RPE: not reported
+- 20 lb per hand — 3x20
+- Last-set RPE: 8
 
 ---
 
