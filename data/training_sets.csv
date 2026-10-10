@@ -44,3 +44,17 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,1,,,,
 2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,2,,,,
 2026-10-07,3,165.2,8,17:00,2,200,afternoon,4,Cable Triceps Pressdown,accessory,cable triceps pressdown,100,12,3,,8,,Last-set RPE 8
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Squat,competition,competition squat,325,5,1,5,,1,Caffeine taken at 4:30 PM; groin reported 1/10
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Squat,competition,competition squat,325,5,2,5,,1,Groin reported 1/10
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Squat,competition,competition squat,325,5,3,5,,1,Groin reported 1/10
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Bench Press,variation,close-grip bench press,225,6,1,6,,,
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Bench Press,variation,close-grip bench press,225,6,2,6,,,
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Bench Press,variation,close-grip bench press,225,6,3,,,,Third-set RPE not reported
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown with parallel handle,130,10,1,,,,
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown with parallel handle,130,10,2,,,,
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown with parallel handle,130,10,3,,,,Last-set RPE not reported
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Leg Extension,accessory,bilateral leg extension,150,16,1,,,,
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Leg Extension,accessory,bilateral leg extension,150,16,2,,,,Last-set RPE not reported
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,,20,1,,,,Load not reported
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,,20,2,,,,Load not reported
+2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,,20,3,,,,Load and last-set RPE not reported
