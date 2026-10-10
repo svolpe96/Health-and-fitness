@@ -91,7 +91,7 @@ Completed.
 - Bilateral
 
 ### Lying Leg Curl
-- 35 lb — 3x12
+- 50 lb — 3x12
 - Bilateral
 - Last-set RPE: 8
 
