@@ -58,3 +58,12 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,Load is per hand
 2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,Load is per hand
 2026-10-09,4,165.8,6,17:00,2,200,afternoon,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,8,,Last-set RPE 8; load is per hand
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Squat,variation,controlled-eccentric squat (~3-second descent),275,5,1,6,,,3-second controlled descent
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Squat,variation,controlled-eccentric squat (~3-second descent),275,5,2,6,,,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Squat,variation,controlled-eccentric squat (~3-second descent),275,5,3,6,,,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Bench Press,competition,competition bench,225,8,1,6,,,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Bench Press,competition,competition bench,225,8,2,6,,,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Bench Press,competition,competition bench,225,8,3,6,,,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,365,4,1,4,,2,Groin discomfort reported 2/10; whether during or after not specified
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,365,4,2,4,,2,
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,365,4,3,4,,2,
