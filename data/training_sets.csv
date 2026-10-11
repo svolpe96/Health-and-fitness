@@ -73,6 +73,6 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Seal Row,accessory,barbell seal row, overhand grip,150,12,1,,,,
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Seal Row,accessory,barbell seal row, overhand grip,150,12,2,,,,
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Seal Row,accessory,barbell seal row, overhand grip,150,12,3,,,,Completed as prescribed; actual last-set RPE not reported
-2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,,1,,,,
-2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,,2,,,,
-2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,,3,,,,Completed 3 sets at 20 lb per hand; exact reps within prescribed 15-20 range not confirmed; actual last-set RPE not reported
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,20 lb per hand; completed 20 reps
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,20 lb per hand; completed 20 reps
+2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,7,,20 lb per hand; completed 20 reps; actual last-set RPE 7
