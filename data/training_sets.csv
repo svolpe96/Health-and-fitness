@@ -76,18 +76,18 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,20 lb per hand; completed 20 reps
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,20 lb per hand; completed 20 reps
 2026-10-10,5,165.4,9,13:40,2,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,7,,20 lb per hand; completed 20 reps; actual last-set RPE 7
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Bench Press,competition,competition bench,265,5,1,6,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Bench Press,competition,competition bench,265,5,2,6,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Bench Press,competition,competition bench,265,5,3,6,,,Actual RPE each set 6
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,1,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,2,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,3,,7,,Actual last-set RPE 7
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,1,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,2,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,3,,8,,75 lb per hand; actual last-set RPE 8
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,8,,20 lb per hand; actual last-set RPE 8
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,
-2026-10-12,1,164.6,8,14:00,3,,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,,,30 lb per hand; screenshot says last-set TARGET RPE 8; actual RPE not confirmed
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Bench Press,competition,competition bench,265,5,1,6,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Bench Press,competition,competition bench,265,5,2,6,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Bench Press,competition,competition bench,265,5,3,6,,,Actual RPE each set 6
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,1,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,2,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Seal Row,accessory,chest-supported seal row,150,12,3,,7,,Actual last-set RPE 7
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,1,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,2,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,10,3,,8,,75 lb per hand; actual last-set RPE 8
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,8,,20 lb per hand; actual last-set RPE 8
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,
+2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,8,,30 lb per hand; actual last-set RPE 8
