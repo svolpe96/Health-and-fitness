@@ -1,67 +1,300 @@
-# Week 2 — Return to Strength / Controlled Progression
-Dates: Monday October 12 through Sunday October 18, 2026
-Status: Planned, not completed.
+# Week 2 — Return to Strength
+Start date: Monday, October 12, 2026
 
-## Objective and rationale
-Week 1 showed squat 315x5x3 @5 Tuesday and 325x5x3 @5 Friday; controlled-eccentric 275x5x3 @6 Saturday. Bench 260x5x3 session RPE ~7 Monday (individual set RPE unknown), 240x6x4 @6/6/5/5 Wednesday, 225x8x3 @6 Saturday; close-grip 225x6x3 @6 Friday. Frog-stance sumo 405x3x3 @5 Tuesday with 3/10 groin symptoms persisting afterward, 365x4x3 @4 Saturday with 2/10 during lifting and 0/10 afterward. Progress squat and bench modestly; limit sumo progression by symptoms. Preserve accessory work that was effective. These are working prescriptions, not inferred tested maxes.
+## Week objective
+Controlled progression based on Week 1. Increase squat and bench working weights modestly while preserving productive hypertrophy work. Maintain conservative, symptom-guided sumo loading because groin discomfort was 3/10 during and after Tuesday deadlifts and 2/10 during Saturday deadlifts, resolving afterward.
 
-## Rules
-- All competition lifts and close-grip/tempo strength variations: record RPE for EACH working set, optionally mean concentric velocity (m/s) separately. Do not equate velocity with RPE without calibration.
-- Accessories: record actual reps, load, and last-set RPE.
-- Record morning bodyweight, sleep hours, training time, hydration (1–5), caffeine dose and timing if used, energy (1–5); record pain during and after lifting.
-- Warm up progressively; working weights are provisional. If the first work set is >1 RPE above target, reduce 2.5–5% to stay within range. If easier, don't automatically add weight mid-session; log it for next exposure.
-- For groin: if symptoms exceed 2/10, increase rep-to-rep, alter mechanics, or linger after training, stop provoking sumo work and use a comfortable hinge variation at RPE <=5 or omit; notify coach. Stop and seek clinical evaluation for severe, worsening, or persistent symptoms.
-- RPE target for first set usually 6–7; do not grind.
+### Weekly structure
+- Day 1 — Monday: Bench
+- Day 2 — Tuesday: Squat + Deadlift
+- Day 3 — Wednesday: Bench volume
+- Thursday: Rest
+- Day 4 — Friday: Squat + Bench
+- Day 5 — Saturday: Squat + Bench + Deadlift
+- Sunday: Rest + weekly review
 
-## Monday Oct 12 — Bench strength + upper hypertrophy
-Readiness: BW ___, sleep ___, time ___, hydration ___/5, caffeine ___ mg at ___, energy ___/5.
-- Competition bench: 265 lb — 3x5; target RPE 6.5–7.5. Set 1 RPE ___; set 2 ___; set 3 ___.
-- Seal row (chest-supported, overhand): 150 lb — 3x12; last-set RPE target 7–8. Maintain after Week 1 160-lb rep shortfall.
-- Incline dumbbell press: 75 lb per hand — 3x10; last-set target RPE 7–8. Only progress after actual effort confirmed.
-- Dumbbell lateral raise: 20 lb per hand — 3x20; last-set target RPE 7–8.
-- Dumbbell skull crusher: 30 lb per hand — 3x10; last-set target RPE 7–8 (verify load interpretation if different).
+Small adjustments to upcoming sessions can be made based on actual RPE, pain, recovery, or equipment. Prescribed RPEs are targets, not actuals. Historical maxes are not assumed to be current tested 1RMs.
 
-## Tuesday Oct 13 — Squat + symptom-guided sumo
-Readiness: BW ___, sleep ___, time ___, hydration ___/5, caffeine ___ mg at ___, energy ___/5.
-- Competition squat: 330 lb — 3x5; target RPE 6–7. Set RPE ___ / ___ / ___; groin during ___/10, after ___/10.
-- Frog-stance sumo deadlift: 405 lb — 3x3; target RPE 5–6 IF warm-ups are comfortable and symptoms <=2/10. Set RPE ___ / ___ / ___; groin during ___/10, after ___/10. This repeats Tuesday Week 1 load rather than increasing it. If symptoms >2/10 or worsening, do not force 405; switch to a pain-tolerable hinge at <=RPE 5 or stop.
-- Bilateral leg press: 360 lb — 3x10; last-set target RPE 7–8 (Week 1 was RPE 6; retain load and improve execution).
-- Bilateral lying leg curl: 50 lb — 3x12; last-set target RPE 8.
-- Bilateral leg extension: 150 lb — 2x15–16; last-set target RPE 8. Maintain after 165-lb RPE 9 and successful 150-lb exposure.
+---
 
-## Wednesday Oct 14 — Bench volume + upper hypertrophy
-Readiness: BW ___, sleep ___, time ___, hydration ___/5, caffeine ___ mg at ___, energy ___/5.
-- Competition bench: 245 lb — 4x6; target RPE 6–7. Set RPE ___ / ___ / ___ / ___.
-- Seal row: 150 lb — 3x12; last-set target RPE 7–8.
-- High-to-low cable chest fly: 100 lb — 3x12–15; last-set target RPE 8. Machine: foot setting 6, arms setting A. Log actual reps.
-- Dumbbell lateral raise: 20 lb per hand — 3x20; last-set target RPE 7–8.
-- Cable triceps pressdown: 100 lb — 3x12; last-set target RPE 8.
+## Day 1 — Monday, October 12
+Planned.
 
-## Thursday Oct 15 — Rest
-Walking and normal activity as tolerated. Record lingering groin symptoms and recovery.
+Bench strength + upper hypertrophy.
 
-## Friday Oct 16 — Squat strength + close-grip bench
-Readiness: BW ___, sleep ___, time ___, hydration ___/5, caffeine ___ mg at ___, energy ___/5.
-- Competition squat: 335 lb — 3x5; target RPE 6–7. Set RPE ___ / ___ / ___; groin during ___/10, after ___/10.
-- Close-grip bench: 230 lb — 3x6; target RPE 6–7. Set RPE ___ / ___ / ___.
-- Medium-close neutral-grip lat pulldown, parallel handle: 130 lb — 3x10; last-set target RPE 8.
-- Bilateral leg extension: 150 lb — 2x16; last-set target RPE 8.
-- Dumbbell lateral raise: 20 lb per hand — 3x20; last-set target RPE 8.
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
 
-## Saturday Oct 17 — Technique squat + bench + symptom-guided deadlift
-Readiness: BW ___, sleep ___, time ___, hydration ___/5, caffeine ___ mg at ___, energy ___/5.
-- Controlled-eccentric squat (~3-sec descent): 280 lb — 3x5; target RPE 5–6. Set RPE ___ / ___ / ___.
-- Competition bench: 230 lb — 3x8; target RPE 6–7. Set RPE ___ / ___ / ___.
-- Frog-stance sumo deadlift: 375 lb — 3x4; target RPE 5–6 IF symptoms <=2/10 and stable. Set RPE ___ / ___ / ___; groin during ___/10, after ___/10. If Tuesday caused lingering symptoms, repeat 365 lb or use pain-tolerable alternative.
-- Bilateral lying leg curl: 50 lb — 3x12; last-set target RPE 8.
-- Barbell seal row (overhand, shoulder-width to slightly wider): 150 lb — 3x12; last-set target RPE 7–8.
-- Dumbbell lateral raise: 20 lb per hand — 3x20; last-set target RPE 7–8.
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if used/reported)
+- Caffeine timing (morning / afternoon / night): ___
+- Pre-training energy (1–5): ___
 
-## Sunday Oct 18 — Rest and Week 2 review
-Review: squat and bench load vs set RPE, deadlift groin symptoms during/after, accessory rep completion, sleep/weight/energy/hydration, and whether Week 3 can progress. Do not make major changes from one atypical session.
+### Competition Bench Press
+- [ ] Set 1 — 265 lb x 5 — RPE: ___
+- [ ] Set 2 — 265 lb x 5 — RPE: ___
+- [ ] Set 3 — 265 lb x 5 — RPE: ___
+- Target: RPE 6.5–7.5
 
-## Progression checks
-- Squat: if Week 2 330/335 lb triples of 5 remain <=RPE 7 with stable symptoms, consider another small increase Week 3.
-- Bench: if 265x5 and 245x6 exposures stay near targets, continue 5-lb increments or smaller based on RPE and recovery.
-- Deadlift: only progress when symptoms remain <=2/10, do not increase rep-to-rep, and settle after lifting; persistent symptoms warrant assessment.
-- Accessories: keep load if target reps reach RPE 7–8; progress reps or load only when reliably below target.
+### Seal Row
+- 150 lb — 3x12
+- Last-set target RPE: 7–8
+- Chest-supported, overhand. Keep 150 lb after Wednesday's Week 1 rep shortfall.
+
+### Incline Dumbbell Press
+- 75 lb per hand — 3x10
+- Last-set target RPE: 7–8
+
+### Dumbbell Lateral Raise
+- 20 lb per hand — 3x20
+- Last-set target RPE: 7–8
+
+### Dumbbell Skull Crusher
+- 30 lb per hand — 3x10
+- Last-set target RPE: 7–8
+
+---
+
+## Day 2 — Tuesday, October 13
+Planned.
+
+Squat + symptom-guided sumo deadlift.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if used/reported)
+- Caffeine timing (morning / afternoon / night): ___
+- Pre-training energy (1–5): ___
+
+### Competition Squat
+- [ ] Set 1 — 330 lb x 5 — RPE: ___
+- [ ] Set 2 — 330 lb x 5 — RPE: ___
+- [ ] Set 3 — 330 lb x 5 — RPE: ___
+- Target: RPE 6–7
+- Groin during: ___/10
+- Groin after: ___/10
+
+### Competition-style Frog-Stance Sumo Deadlift
+- [ ] Set 1 — 405 lb x 3 — RPE: ___
+- [ ] Set 2 — 405 lb x 3 — RPE: ___
+- [ ] Set 3 — 405 lb x 3 — RPE: ___
+- Target: RPE 5–6
+- Groin during: ___/10
+- Groin after: ___/10
+- Load is conditional: proceed only if warm-up groin symptoms are at most 2/10 and stable. If symptoms exceed 2/10, increase rep-to-rep, or alter mechanics, stop provoking sumo work; use a comfortable hinge at RPE 5 or less or omit.
+- Repeat Week 1 Tuesday's 405 lb; do not increase until tolerance improves.
+
+### Bilateral Leg Press
+- 360 lb — 3x10
+- Last-set target RPE: 7–8
+
+### Bilateral Lying Leg Curl
+- 50 lb — 3x12
+- Last-set target RPE: 8
+
+### Bilateral Leg Extension
+- 150 lb — 2x15–16
+- Last-set target RPE: 8
+
+---
+
+## Day 3 — Wednesday, October 14
+Planned.
+
+Bench volume + upper hypertrophy.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if used/reported)
+- Caffeine timing (morning / afternoon / night): ___
+- Pre-training energy (1–5): ___
+
+### Competition Bench Press
+- [ ] Set 1 — 245 lb x 6 — RPE: ___
+- [ ] Set 2 — 245 lb x 6 — RPE: ___
+- [ ] Set 3 — 245 lb x 6 — RPE: ___
+- [ ] Set 4 — 245 lb x 6 — RPE: ___
+- Target: RPE 6–7
+
+### Seal Row
+- 150 lb — 3x12
+- Last-set target RPE: 7–8
+
+### High-to-Low Cable Chest Fly
+- 100 lb — 3x12–15
+- Last-set target RPE: 8
+- Machine: foot setting 6, arms setting A; log actual reps.
+
+### Dumbbell Lateral Raise
+- 20 lb per hand — 3x20
+- Last-set target RPE: 7–8
+
+### Cable Triceps Pressdown
+- 100 lb — 3x12
+- Last-set target RPE: 8
+
+---
+
+## Thursday, October 15
+Rest / normal activity.
+
+No planned lifting. Note any lingering groin symptoms before Friday/Saturday lower-body exposures.
+
+---
+
+## Day 4 — Friday, October 16
+Planned.
+
+Squat strength + close-grip bench.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if used/reported)
+- Caffeine timing (morning / afternoon / night): ___
+- Pre-training energy (1–5): ___
+
+### Competition Squat
+- [ ] Set 1 — 335 lb x 5 — RPE: ___
+- [ ] Set 2 — 335 lb x 5 — RPE: ___
+- [ ] Set 3 — 335 lb x 5 — RPE: ___
+- Target: RPE 6–7
+- Groin during: ___/10
+- Groin after: ___/10
+
+### Close-Grip Bench Press
+- [ ] Set 1 — 230 lb x 6 — RPE: ___
+- [ ] Set 2 — 230 lb x 6 — RPE: ___
+- [ ] Set 3 — 230 lb x 6 — RPE: ___
+- Target: RPE 6–7
+
+### Medium-Close Neutral-Grip Lat Pulldown
+- 130 lb — 3x10
+- Last-set target RPE: 8
+- Parallel neutral-grip handle.
+
+### Bilateral Leg Extension
+- 150 lb — 2x16
+- Last-set target RPE: 8
+
+### Dumbbell Lateral Raise
+- 20 lb per hand — 3x20
+- Last-set target RPE: 8
+
+---
+
+## Day 5 — Saturday, October 17
+Planned.
+
+Technique squat + bench + symptom-guided deadlift.
+
+### Readiness
+**Morning**
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+
+**Pre-training**
+- Training time: ___
+- Hydration (1–5): ___
+- Caffeine before training: ___ mg (only if used/reported)
+- Caffeine timing (morning / afternoon / night): ___
+- Pre-training energy (1–5): ___
+
+### Controlled-Eccentric Squat
+Use approximately a 3-second descent.
+
+- [ ] Set 1 — 280 lb x 5 — RPE: ___
+- [ ] Set 2 — 280 lb x 5 — RPE: ___
+- [ ] Set 3 — 280 lb x 5 — RPE: ___
+- Target: RPE 5–6
+- Groin during: ___/10
+- Groin after: ___/10
+
+### Competition Bench Press
+- [ ] Set 1 — 230 lb x 8 — RPE: ___
+- [ ] Set 2 — 230 lb x 8 — RPE: ___
+- [ ] Set 3 — 230 lb x 8 — RPE: ___
+- Target: RPE 6–7
+
+### Frog-Stance Sumo Deadlift
+- [ ] Set 1 — 375 lb x 4 — RPE: ___
+- [ ] Set 2 — 375 lb x 4 — RPE: ___
+- [ ] Set 3 — 375 lb x 4 — RPE: ___
+- Target: RPE 5–6
+- Groin during: ___/10
+- Groin after: ___/10
+- Load is conditional: proceed only if warm-up groin symptoms are at most 2/10 and stable. If symptoms exceed 2/10, increase rep-to-rep, or alter mechanics, stop provoking sumo work; use a comfortable hinge at RPE 5 or less or omit.
+- If Tuesday caused lingering symptoms, repeat 365 lb or use a comfortable alternative.
+
+### Bilateral Lying Leg Curl
+- 50 lb — 3x12
+- Last-set target RPE: 8
+
+### Barbell Seal Row
+- 150 lb — 3x12
+- Last-set target RPE: 7–8
+- Overhand grip, shoulder-width to slightly wider.
+
+### Dumbbell Lateral Raise
+- 20 lb per hand — 3x20
+- Last-set target RPE: 7–8
+
+---
+
+## Sunday, October 18 — Weekly Review
+No planned lifting.
+
+At the end of the week we will review:
+- set-by-set RPE and load trends for squat, bench, and deadlift
+- whether groin symptoms stayed at or below 2/10 and resolved after sessions
+- bodyweight, sleep, hydration, caffeine, and energy trends
+- accessory rep completion and last-set RPE
+- whether Week 3 can progress load, reps, or volume
+
+---
+
+## Logging standards
+Routine readiness:
+- Morning bodyweight
+- Sleep hours
+- Training time
+- Hydration 1–5
+- Caffeine amount only when reported
+- Caffeine timing as morning, afternoon, or night
+- Pre-training energy 1–5
+
+Competition lifts and important strength variations:
+- every working set displayed separately
+- actual RPE recorded for every working set
+- optional mean concentric velocity (m/s), if measured, logged separately
+
+Accessories:
+- condensed by default
+- actual reps/load and final-set RPE recorded
+- exact setup specified where relevant
+
+Pain/symptoms:
+- record groin symptoms during and after squat/deadlift
+- if first working set is more than 1 RPE above target, reduce 2.5–5% rather than grind
+- if pain worsens, lingers, or is severe, stop provoking work and consider clinical assessment
