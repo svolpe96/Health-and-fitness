@@ -18,7 +18,7 @@ Small adjustments to upcoming sessions can be made based on actual RPE, pain, re
 ---
 
 ## Day 1 — Monday, October 12
-Completed (skull-crusher actual last-set RPE not yet confirmed).
+Completed.
 
 Bench strength + upper hypertrophy.
 
@@ -30,8 +30,8 @@ Bench strength + upper hypertrophy.
 **Pre-training**
 - Training time: 2:00 PM
 - Hydration (1–5): 3
-- Caffeine before training: amount not reported (screenshot shows 1:30 in the mg field, interpreted as a time, not a dose)
-- Caffeine timing: afternoon (1:30 PM indicated; confirm)
+- Caffeine before training: 200 mg
+- Caffeine timing: afternoon (1:30 PM)
 - Pre-training energy (1–5): 4
 
 ### Competition Bench Press
@@ -55,7 +55,7 @@ Bench strength + upper hypertrophy.
 ### Dumbbell Skull Crusher
 - 30 lb per hand — 3x10
 - Last-set target RPE: 8
-- Actual last-set RPE: not yet confirmed
+- Actual last-set RPE: 8
 
 ---
 
