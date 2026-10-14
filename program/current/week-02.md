@@ -60,51 +60,51 @@ Bench strength + upper hypertrophy.
 ---
 
 ## Day 2 — Tuesday, October 13
-Planned.
+Squat, deadlift, leg press, and leg extension results recorded; leg curl last-set RPE pending.
 
 Squat + symptom-guided sumo deadlift.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 166.2 lb
+- Sleep: 8 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Training time: 10:00 AM
+- Hydration (1–5): 2
+- Caffeine before training: 200 mg
+- Caffeine timing: morning (10:30 AM, as reported)
+- Pre-training energy (1–5): 3
+- Schedule: rushed workout due to work
 
 ### Competition Squat
-- [ ] Set 1 — 330 lb x 5 — RPE: ___
-- [ ] Set 2 — 330 lb x 5 — RPE: ___
-- [ ] Set 3 — 330 lb x 5 — RPE: ___
+- [x] Set 1 — 330 lb x 5 — RPE: 6
+- [x] Set 2 — 330 lb x 5 — RPE: 6
+- [x] Set 3 — 330 lb x 5 — RPE: 6
 - Target: RPE 6–7
-- Groin during: ___/10
-- Groin after: ___/10
+- Groin during: 1/10
+- Groin after: 0/10
 
 ### Competition-style Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 405 lb x 3 — RPE: ___
-- [ ] Set 2 — 405 lb x 3 — RPE: ___
-- [ ] Set 3 — 405 lb x 3 — RPE: ___
+- [x] Set 1 — 405 lb x 3 — RPE: 4
+- [x] Set 2 — 405 lb x 3 — RPE: 4
+- [x] Set 3 — 405 lb x 3 — RPE: 4
 - Target: RPE 5–6
-- Groin during: ___/10
-- Groin after: ___/10
-- Load is conditional: proceed only if warm-up groin symptoms are at most 2/10 and stable. If symptoms exceed 2/10, increase rep-to-rep, or alter mechanics, stop provoking sumo work; use a comfortable hinge at RPE 5 or less or omit.
-- Repeat Week 1 Tuesday's 405 lb; do not increase until tolerance improves.
+- Groin during: 1/10
+- Groin after: 0/10
 
 ### Bilateral Leg Press
 - 360 lb — 3x10
-- Last-set target RPE: 7–8
+- Actual last-set RPE: 7
 
 ### Bilateral Lying Leg Curl
-- 50 lb — 3x12
+- 50 lb — 3x12 (reported in workout screenshot; actual last-set RPE not confirmed)
 - Last-set target RPE: 8
 
 ### Bilateral Leg Extension
-- 150 lb — 2x15–16
-- Last-set target RPE: 8
+- 150 lb — 2x16
+- Actual last-set RPE: 10
+- Context: workout was rushed due to work; avoid adding load and review rest periods before next exposure.
 
 ---
 
