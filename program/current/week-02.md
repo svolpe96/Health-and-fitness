@@ -60,7 +60,7 @@ Bench strength + upper hypertrophy.
 ---
 
 ## Day 2 — Tuesday, October 13
-Squat, deadlift, leg press, and leg extension results recorded; leg curl last-set RPE pending.
+Completed.
 
 Squat + symptom-guided sumo deadlift.
 
@@ -98,7 +98,8 @@ Squat + symptom-guided sumo deadlift.
 - Actual last-set RPE: 7
 
 ### Bilateral Lying Leg Curl
-- 50 lb — 3x12 (reported in workout screenshot; actual last-set RPE not confirmed)
+- 50 lb — 3x12 completed
+- Actual last-set RPE: 7.5
 - Last-set target RPE: 8
 
 ### Bilateral Leg Extension
