@@ -91,3 +91,17 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,
 2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,
 2026-10-12,1,164.6,8,14:00,3,200,afternoon,4,Dumbbell Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,8,,30 lb per hand; actual last-set RPE 8
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Squat,competition,competition squat,330,5,1,6,,1,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Squat,competition,competition squat,330,5,2,6,,1,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Squat,competition,competition squat,330,5,3,6,,1,Groin 1/10 during; 0/10 afterward
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Deadlift,competition,frog-stance sumo deadlift,405,3,1,4,,1,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Deadlift,competition,frog-stance sumo deadlift,405,3,2,4,,1,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Deadlift,competition,frog-stance sumo deadlift,405,3,3,4,,1,Groin 1/10 during; 0/10 afterward
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Press,accessory,bilateral leg press,360,10,1,,,,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Press,accessory,bilateral leg press,360,10,2,,,,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Press,accessory,bilateral leg press,360,10,3,,7,,Last-set RPE 7 entered in screenshot (although field says target)
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Curl,accessory,bilateral lying leg curl,50,12,1,,,,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Curl,accessory,bilateral lying leg curl,50,12,2,,,,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Curl,accessory,bilateral lying leg curl,50,12,3,,,,Last-set RPE 8 shown as target only; actual unconfirmed
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Extension,accessory,bilateral leg extension,150,15-16,1,,,,
+2026-10-13,2,166.2,8,10:00,2,,morning,3,Leg Extension,accessory,bilateral leg extension,150,15-16,2,,,,Exact reps (15 or 16) and actual last-set RPE unconfirmed; prescription shown
