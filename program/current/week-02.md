@@ -110,7 +110,7 @@ Squat + symptom-guided sumo deadlift.
 ---
 
 ## Day 3 — Wednesday, October 14
-Reported from workout screenshot; accessory last-set RPEs pending confirmation.
+Reported from workout screenshot; seal row and lateral raise last-set RPEs confirmed.
 
 Bench volume + upper hypertrophy. Time-constrained session: cable fly and triceps pressdown were skipped.
 
@@ -135,7 +135,7 @@ Bench volume + upper hypertrophy. Time-constrained session: cable fly and tricep
 
 ### Seal Row
 - 150 lb — 3x12 (as reported)
-- Last-set target RPE: 8 (actual unconfirmed)
+- Actual last-set RPE: 8
 
 ### High-to-Low Cable Chest Fly
 - Skipped: ran out of time
@@ -143,7 +143,7 @@ Bench volume + upper hypertrophy. Time-constrained session: cable fly and tricep
 
 ### Dumbbell Lateral Raise
 - 20 lb per hand — 3x20 (as reported)
-- Last-set target RPE: 7 (actual unconfirmed)
+- Actual last-set RPE: 7
 
 ### Cable Triceps Pressdown
 - Skipped: ran out of time
