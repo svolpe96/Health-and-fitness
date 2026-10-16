@@ -105,3 +105,13 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-13,2,166.2,8,10:00,2,200,morning,3,Leg Curl,accessory,bilateral lying leg curl,50,12,3,,7.5,,Completed 3x12; actual last-set RPE 7.5
 2026-10-13,2,166.2,8,10:00,2,200,morning,3,Leg Extension,accessory,bilateral leg extension,150,16,1,,,,
 2026-10-13,2,166.2,8,10:00,2,200,morning,3,Leg Extension,accessory,bilateral leg extension,150,16,2,,10,,Actual last-set RPE 10; workout rushed due to work
+2026-10-14,3,164,6,17:00,3,200,morning,3,Bench Press,competition,competition bench,245,6,1,6,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Bench Press,competition,competition bench,245,6,2,6,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Bench Press,competition,competition bench,245,6,3,5,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Bench Press,competition,competition bench,245,6,4,5,,,Completed 4x6
+2026-10-14,3,164,6,17:00,3,200,morning,3,Seal Row,accessory,chest-supported seal row,150,12,1,,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Seal Row,accessory,chest-supported seal row,150,12,2,,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Seal Row,accessory,chest-supported seal row,150,12,3,,,,Prescribed 3x12; screenshot shows last-set target 8; actual RPE unconfirmed
+2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,
+2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,,,20 lb per hand; screenshot shows last-set target 7; actual RPE unconfirmed
