@@ -110,45 +110,44 @@ Squat + symptom-guided sumo deadlift.
 ---
 
 ## Day 3 — Wednesday, October 14
-Planned.
+Reported from workout screenshot; accessory last-set RPEs pending confirmation.
 
-Bench volume + upper hypertrophy.
+Bench volume + upper hypertrophy. Time-constrained session: cable fly and triceps pressdown were skipped.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 164 lb
+- Sleep: 6 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Training time: 5:00 PM (as entered)
+- Hydration (1–5): 3
+- Caffeine before training: 200 mg
+- Caffeine timing: morning
+- Pre-training energy (1–5): 3
 
 ### Competition Bench Press
-- [ ] Set 1 — 245 lb x 6 — RPE: ___
-- [ ] Set 2 — 245 lb x 6 — RPE: ___
-- [ ] Set 3 — 245 lb x 6 — RPE: ___
-- [ ] Set 4 — 245 lb x 6 — RPE: ___
+- [x] Set 1 — 245 lb x 6 — RPE: 6
+- [x] Set 2 — 245 lb x 6 — RPE: 6
+- [x] Set 3 — 245 lb x 6 — RPE: 5
+- [x] Set 4 — 245 lb x 6 — RPE: 5
 - Target: RPE 6–7
 
 ### Seal Row
-- 150 lb — 3x12
-- Last-set target RPE: 7–8
+- 150 lb — 3x12 (as reported)
+- Last-set target RPE: 8 (actual unconfirmed)
 
 ### High-to-Low Cable Chest Fly
-- 100 lb — 3x12–15
-- Last-set target RPE: 8
-- Machine: foot setting 6, arms setting A; log actual reps.
+- Skipped: ran out of time
+- Planned: 100 lb — 3x12–15; target last-set RPE 8
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Last-set target RPE: 7–8
+- 20 lb per hand — 3x20 (as reported)
+- Last-set target RPE: 7 (actual unconfirmed)
 
 ### Cable Triceps Pressdown
-- 100 lb — 3x12
-- Last-set target RPE: 8
+- Skipped: ran out of time
+- Planned: 100 lb — 3x12; target last-set RPE 8
 
 ---
 
