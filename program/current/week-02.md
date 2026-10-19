@@ -205,60 +205,54 @@ Squat strength + close-grip bench.
 ---
 
 ## Day 5 — Saturday, October 17
-Planned.
+Squat and bench completed; deadlift intentionally skipped; accessory completion and RPEs pending confirmation.
 
-Technique squat + bench + symptom-guided deadlift.
+Technique squat + bench; sumo omitted to allow groin extra recovery.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 167 lb
+- Sleep: 7 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Training time: 2:00 PM
+- Hydration (1–5): 3
+- Caffeine before training: 200 mg
+- Caffeine timing: not reported
+- Pre-training energy (1–5): not reported
 
 ### Controlled-Eccentric Squat
 Use approximately a 3-second descent.
 
-- [ ] Set 1 — 280 lb x 5 — RPE: ___
-- [ ] Set 2 — 280 lb x 5 — RPE: ___
-- [ ] Set 3 — 280 lb x 5 — RPE: ___
+- [x] Set 1 — 280 lb x 5 — RPE: 3
+- [x] Set 2 — 280 lb x 5 — RPE: 3
+- [x] Set 3 — 280 lb x 5 — RPE: 3
 - Target: RPE 5–6
-- Groin during: ___/10
-- Groin after: ___/10
+- Groin during: 1/10
+- Groin after: 1/10
 
 ### Competition Bench Press
-- [ ] Set 1 — 230 lb x 8 — RPE: ___
-- [ ] Set 2 — 230 lb x 8 — RPE: ___
-- [ ] Set 3 — 230 lb x 8 — RPE: ___
+- [x] Set 1 — 230 lb x 8 — RPE: 5
+- [x] Set 2 — 230 lb x 8 — RPE: 5
+- [x] Set 3 — 230 lb x 8 — RPE: 5
 - Target: RPE 6–7
 
 ### Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 375 lb x 4 — RPE: ___
-- [ ] Set 2 — 375 lb x 4 — RPE: ___
-- [ ] Set 3 — 375 lb x 4 — RPE: ___
-- Target: RPE 5–6
-- Groin during: ___/10
-- Groin after: ___/10
-- Load is conditional: proceed only if warm-up groin symptoms are at most 2/10 and stable. If symptoms exceed 2/10, increase rep-to-rep, or alter mechanics, stop provoking sumo work; use a comfortable hinge at RPE 5 or less or omit.
-- If Tuesday caused lingering symptoms, repeat 365 lb or use a comfortable alternative.
+- Skipped intentionally: athlete elected to give groin an extra recovery day.
+- Original plan: 375 lb — 3x4 at target RPE 5–6.
 
 ### Bilateral Lying Leg Curl
-- 50 lb — 3x12
-- Last-set target RPE: 8
+- 55 lb — 3x12 shown in screenshot (changed from planned 50 lb)
+- Last-set RPE 8 written in screenshot; confirm whether actual or target and whether all sets completed.
 
 ### Barbell Seal Row
-- 150 lb — 3x12
-- Last-set target RPE: 7–8
+- 150 lb — 3x12 shown in screenshot
+- Last-set target RPE: 7–8; actual completion/RPE unconfirmed.
 - Overhand grip, shoulder-width to slightly wider.
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Last-set target RPE: 7–8
+- 20 lb per hand — 3x20 shown in screenshot
+- Last-set target RPE: 7; actual completion/RPE unconfirmed.
 
 ---
 
