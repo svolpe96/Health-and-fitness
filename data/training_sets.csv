@@ -115,3 +115,9 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,
 2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,
 2026-10-14,3,164,6,17:00,3,200,morning,3,Dumbbell Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,7,,20 lb per hand; actual last-set RPE 7
+2026-10-17,5,167,7,14:00,3,200,,,Squat,variation,controlled-eccentric squat (~3-second descent),280,5,1,3,,1,
+2026-10-17,5,167,7,14:00,3,200,,,Squat,variation,controlled-eccentric squat (~3-second descent),280,5,2,3,,1,
+2026-10-17,5,167,7,14:00,3,200,,,Squat,variation,controlled-eccentric squat (~3-second descent),280,5,3,3,,1,Groin during 1/10; after 1/10
+2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,1,5,,,
+2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,2,5,,,
+2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,3,5,,,
