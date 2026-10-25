@@ -18,7 +18,7 @@ Weights below are **planned, not completed**. If the session occurs late or afte
 ---
 
 ## Day 1 — Monday, October 19
-Bench reported; accessory completion and actual RPEs pending confirmation.
+Completed — bench and all four accessories confirmed.
 
 ### Readiness
 - Bodyweight: 165 lb
@@ -36,19 +36,19 @@ Bench reported; accessory completion and actual RPEs pending confirmation.
 
 ### Seal Row
 - Reported: 150 lb — 3x12
-- Last-set target RPE: 8; actual RPE not confirmed
+- Actual last-set RPE: 8
 
 ### Incline Dumbbell Press
 - Reported: 75 lb per hand — 3x10
-- Last-set target RPE: 8; actual RPE not confirmed
+- Actual last-set RPE: 8
 
 ### Dumbbell Lateral Raise
 - Reported: 20 lb per hand — 3x25
-- Last-set target RPE: 8; actual RPE not confirmed
+- Actual last-set RPE: 8
 
 ### Dumbbell Skull Crusher
 - Reported: 30 lb per hand — 3x10
-- Last-set target RPE: 8; actual RPE not confirmed
+- Actual last-set RPE: 8
 
 ---
 
