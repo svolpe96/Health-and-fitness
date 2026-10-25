@@ -147,7 +147,16 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-19,1,165,6,16:30,1,200,afternoon,2,Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,Completed; last-set RPE 8; time 4:30 PM provisional
 2026-10-19,1,165,6,16:30,1,200,afternoon,2,Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,Completed; last-set RPE 8; time 4:30 PM provisional
 2026-10-19,1,165,6,16:30,1,200,afternoon,2,Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,8,,Completed; last-set RPE 8; time 4:30 PM provisional
-2026-10-21,3,165,7,,3,200,afternoon,3,Bench,competition,competition bench press,250,6,1,6,,,Training time 4:30 AM/PM unconfirmed
-2026-10-21,3,165,7,,3,200,afternoon,3,Bench,competition,competition bench press,250,6,2,6,,,Training time 4:30 AM/PM unconfirmed
-2026-10-21,3,165,7,,3,200,afternoon,3,Bench,competition,competition bench press,250,6,3,6,,,Training time 4:30 AM/PM unconfirmed
-2026-10-21,3,165,7,,3,200,afternoon,3,Bench,competition,competition bench press,250,6,4,6,,,Training time 4:30 AM/PM unconfirmed
+2026-10-21,3,165,7,,16:30,200,afternoon,3,Bench,competition,competition bench press,250,6,1,6,,,Training at 4:30 PM confirmed
+2026-10-21,3,165,7,,16:30,200,afternoon,3,Bench,competition,competition bench press,250,6,2,6,,,Training at 4:30 PM confirmed
+2026-10-21,3,165,7,,16:30,200,afternoon,3,Bench,competition,competition bench press,250,6,3,6,,,Training at 4:30 PM confirmed
+2026-10-21,3,165,7,,16:30,200,afternoon,3,Bench,competition,competition bench press,250,6,4,6,,,Training at 4:30 PM confirmed
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,1,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,2,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,3,,8,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,20,20,1,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,20,20,2,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,20,20,3,,8,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Triceps Pressdown,accessory,cable triceps pressdown,100,12,1,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Triceps Pressdown,accessory,cable triceps pressdown,100,12,2,,,,Completed; last-set RPE 8
+2026-10-21,3,165,7,16:30,3,200,afternoon,3,Triceps Pressdown,accessory,cable triceps pressdown,100,12,3,,8,,Completed; last-set RPE 8
