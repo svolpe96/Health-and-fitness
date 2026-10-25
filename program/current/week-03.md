@@ -60,52 +60,42 @@ Bench strength + upper hypertrophy.
 ---
 
 ## Day 2 — Tuesday, October 20
-Planned.
-
-Squat + symptom-guided sumo.
+Completed — confirmed results (leg extension exact reps pending).
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 164.2 lb
+- Sleep: 8 hours
+- Training time: 5 PM
+- Hydration: 3/5
+- Caffeine: 0 mg
+- Pre-training energy: 3/5
 
 ### Competition Squat
-- [ ] Set 1 — 340 lb x 5 — RPE: ___
-- [ ] Set 2 — 340 lb x 5 — RPE: ___
-- [ ] Set 3 — 340 lb x 5 — RPE: ___
-- Target: RPE 6–7
-- Groin during: ___/10
-- Groin after: ___/10
+- [x] Set 1 — 340 lb x 5 — Actual RPE: 6
+- [x] Set 2 — 340 lb x 5 — Actual RPE: 6
+- [x] Set 3 — 340 lb x 5 — Actual RPE: 6
+- Groin during: 0.5/10
+- Groin after: 0.5/10
 
 ### Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 395 lb x 3 — RPE: ___
-- [ ] Set 2 — 395 lb x 3 — RPE: ___
-- [ ] Set 3 — 395 lb x 3 — RPE: ___
-- Target: RPE 5–6
-- Groin during: ___/10
-- Groin after: ___/10
-- 395 lb is a conservative re-entry target below Week 2's 405 lb. Only proceed if warm-ups are comfortable and symptoms are stable at <=2/10; reduce or omit if not.
+- [x] Set 1 — 405 lb x 3 — Actual RPE: 6
+- [x] Set 2 — 405 lb x 3 — Actual RPE: 6
+- [x] Set 3 — 405 lb x 3 — Actual RPE: 6
+- Groin during: 1/10
+- Groin after: 0/10
+- Actual load 405 lb (planned 395 lb).
 
 ### Bilateral Leg Press
-- 360 lb — 3x10
-- Last-set target RPE: 7–8
+- Skipped.
 
 ### Bilateral Lying Leg Curl
-- 50 lb — 3x12
-- Last-set target RPE: 7–8
-- 55 lb only if Saturday Week 2 55-lb sets were completed with good technique at RPE <=8; otherwise 50 lb.
+- [x] 55 lb — 3x12 completed
+- Actual last-set RPE: 8
 
 ### Bilateral Leg Extension
-- 140 lb — 2x15–16
-- Last-set target RPE: 7–8
-- Reduced from 150 after RPE 10 in rushed Week 2 session. Rest 2–3 min; adjust load to cap RPE 8.
+- [x] 140 lb — 2 sets completed
+- Actual last-set RPE: 8
+- Exact reps per set not yet confirmed (planned 15–16).
 
 ---
 
