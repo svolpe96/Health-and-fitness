@@ -93,51 +93,37 @@ Completed — confirmed results (leg extension exact reps pending).
 ---
 
 ## Day 3 — Wednesday, October 21
-Planned.
-
-Bench volume + upper hypertrophy.
+Bench confirmed; accessory completion and actual RPEs pending confirmation.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165 lb
+- Sleep: 7 hours
+- Training time: 4:30 (AM/PM not confirmed)
+- Hydration: 3/5
+- Caffeine: 200 mg, afternoon
+- Pre-training energy: 3/5
 
 ### Competition Bench Press
-- [ ] Set 1 — 250 lb x 6 — RPE: ___
-- [ ] Set 2 — 250 lb x 6 — RPE: ___
-- [ ] Set 3 — 250 lb x 6 — RPE: ___
-- [ ] Set 4 — 250 lb x 6 — RPE: ___
+- [x] Set 1 — 250 lb x 6 — Actual RPE: 6
+- [x] Set 2 — 250 lb x 6 — Actual RPE: 6
+- [x] Set 3 — 250 lb x 6 — Actual RPE: 6
+- [x] Set 4 — 250 lb x 6 — Actual RPE: 6
 - Target: RPE 6–7
 
 ### Seal Row
-- 150 lb — 3x12
-- Last-set target RPE: 7–8
+- Reported: 155 lb — 3x12
+- Last-set target RPE: 8; actual RPE unconfirmed
 
 ### High-to-Low Cable Chest Fly
-- 100 lb — 3x12–15
-- Last-set target RPE: 7–8
-- Machine foot setting 6, arms setting A.
+- Skipped (didn't do)
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Last-set target RPE: 7–8
+- Reported: 20 lb per hand — 3x20
+- Last-set target RPE: 7–8; actual RPE unconfirmed
 
 ### Cable Triceps Pressdown
-- 100 lb — 3x12
-- Last-set target RPE: 7–8
-- If short on time, prioritize bench and rows; optional accessories can be reduced.
-
----
-
-## Thursday, October 22
-Rest / normal activity. Note groin symptoms and recovery.
+- Reported: 100 lb — 3x12
+- Last-set target RPE: 8; actual RPE unconfirmed
 
 ---
 
