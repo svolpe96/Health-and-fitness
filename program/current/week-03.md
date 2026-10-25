@@ -18,44 +18,37 @@ Weights below are **planned, not completed**. If the session occurs late or afte
 ---
 
 ## Day 1 — Monday, October 19
-Planned.
-
-Bench strength + upper hypertrophy.
+Bench reported; accessory completion and actual RPEs pending confirmation.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165 lb
+- Sleep: 6 hours
+- Training time: 4:30 (AM/PM unconfirmed)
+- Hydration: 1/5
+- Caffeine: 200 mg, afternoon
+- Pre-training energy: 2/5
 
 ### Competition Bench Press
-- [ ] Set 1 — 270 lb x 5 — RPE: ___
-- [ ] Set 2 — 270 lb x 5 — RPE: ___
-- [ ] Set 3 — 270 lb x 5 — RPE: ___
-- Target: RPE 6–7
+- [x] Set 1 — 270 lb x 5 — Actual RPE: 7
+- [x] Set 2 — 270 lb x 5 — Actual RPE: 7
+- [x] Set 3 — 270 lb x 5 — Actual RPE: 7
+- Target RPE: 6–7
 
 ### Seal Row
-- 150 lb — 3x12
-- Last-set target RPE: 7–8
-- Chest-supported, overhand.
+- Reported: 150 lb — 3x12
+- Last-set target RPE: 8; actual RPE not confirmed
 
 ### Incline Dumbbell Press
-- 75 lb per hand — 3x10
-- Last-set target RPE: 7–8
+- Reported: 75 lb per hand — 3x10
+- Last-set target RPE: 8; actual RPE not confirmed
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Last-set target RPE: 7–8
+- Reported: 20 lb per hand — 3x25
+- Last-set target RPE: 8; actual RPE not confirmed
 
 ### Dumbbell Skull Crusher
-- 30 lb per hand — 3x10
-- Last-set target RPE: 7–8
+- Reported: 30 lb per hand — 3x10
+- Last-set target RPE: 8; actual RPE not confirmed
 
 ---
 
