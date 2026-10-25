@@ -167,54 +167,58 @@ Completed.
 ---
 
 ## Day 5 — Saturday, October 24
-Planned.
+Main lifts completed; optional deadlift and accessories skipped.
 
 Tempo squat + bench volume + optional symptom-guided hinge.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 164.6 lb
+- Sleep: 8 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Training time: 1:20 (PM unconfirmed)
+- Hydration (1–5): 2
+- Caffeine before training: 200 mg
+- Caffeine timing: afternoon
+- Pre-training energy (1–5): 3
 
 ### Controlled-Eccentric Squat
 Use approximately a 3-second descent.
 
-- [ ] Set 1 — 285 lb x 5 — RPE: ___
-- [ ] Set 2 — 285 lb x 5 — RPE: ___
-- [ ] Set 3 — 285 lb x 5 — RPE: ___
+- [x] Set 1 — 285 lb x 5 — Actual RPE: 5
+- [x] Set 2 — 285 lb x 5 — Actual RPE: 5
+- [x] Set 3 — 285 lb x 5 — Actual RPE: 5
 - Target: RPE 4–6
-- Groin during: ___/10
-- Groin after: ___/10
+- Groin during: 0/10
+- Groin after: appears 0/10; awaiting confirmation
 
 ### Competition Bench Press
-- [ ] Set 1 — 235 lb x 8 — RPE: ___
-- [ ] Set 2 — 235 lb x 8 — RPE: ___
-- [ ] Set 3 — 235 lb x 8 — RPE: ___
+- [x] Set 1 — 235 lb x 8 — Actual RPE: 7
+- [x] Set 2 — 235 lb x 8 — Actual RPE: 7
+- [x] Set 3 — 235 lb x 8 — Actual RPE: 7
 - Target: RPE 5–7
 
 ### Optional Frog-Stance Sumo Deadlift
+- Skipped (not performed).
 - 345 lb — 2x4
 - Last-set target RPE: 4–5
 - ONLY if groin symptoms during the week were <=1/10, fully resolved after lifting, and warm-ups are comfortable. Otherwise omit; do not make up skipped volume.
 
 ### Bilateral Lying Leg Curl
+- Skipped (not performed).
 - 50 lb — 3x12
 - Last-set target RPE: 7–8
 - 55 lb only if confirmed and well tolerated from prior exposure.
 
 ### Barbell Seal Row
+- Skipped (not performed).
 - 150 lb — 3x12
 - Last-set target RPE: 7–8
 - Overhand grip, shoulder-width to slightly wider.
 
 ### Dumbbell Lateral Raise
+- Skipped (not performed).
 - 20 lb per hand — 3x20
 - Last-set target RPE: 7–8
 
