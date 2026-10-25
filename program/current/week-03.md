@@ -128,49 +128,41 @@ Completed — bench and three accessories confirmed; cable fly skipped.
 ---
 
 ## Day 4 — Friday, October 23
-Planned.
-
-Squat strength + close-grip bench.
+Completed.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if used/reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165 lb
+- Sleep: 9 hours
+- Training time: 2:30 PM
+- Hydration: 2/5
+- Caffeine: 200 mg, afternoon
+- Pre-training energy: 3/5
 
 ### Competition Squat
-- [ ] Set 1 — 345 lb x 5 — RPE: ___
-- [ ] Set 2 — 345 lb x 5 — RPE: ___
-- [ ] Set 3 — 345 lb x 5 — RPE: ___
-- Target: RPE 6–7
-- Groin during: ___/10
-- Groin after: ___/10
+- [x] Set 1 — 345 lb x 5 — Actual RPE: 6
+- [x] Set 2 — 345 lb x 5 — Actual RPE: 6
+- [x] Set 3 — 345 lb x 5 — Actual RPE: 6
+- Groin during: 0/10
+- Groin after: 0/10
 
 ### Close-Grip Bench Press
-- [ ] Set 1 — 235 lb x 6 — RPE: ___
-- [ ] Set 2 — 235 lb x 6 — RPE: ___
-- [ ] Set 3 — 235 lb x 6 — RPE: ___
-- Target: RPE 6–7
+- [x] Set 1 — 235 lb x 6 — Actual RPE: 6
+- [x] Set 2 — 235 lb x 6 — Actual RPE: 6
+- [x] Set 3 — 235 lb x 6 — Actual RPE: 7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- 130 lb — 3x10
-- Last-set target RPE: 7–8
-- Parallel neutral-grip handle.
+- [x] Set 1 — 130 lb x 10 — felt too hard
+- [x] Set 2 — 115 lb x 10 — fatigued
+- [x] Set 3 — 115 lb x 8
+- Actual last-set RPE: 8
 
 ### Bilateral Leg Extension
-- 140 lb — 2x16
-- Last-set target RPE: 7–8
-- 2–3 minutes rest; adjust to cap RPE 8.
+- [x] 140 lb — 2x16
+- Actual last-set RPE: 8
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Last-set target RPE: 7–8
+- [x] 20 lb per hand — 3x25
+- Actual last-set RPE: 8
 
 ---
 
