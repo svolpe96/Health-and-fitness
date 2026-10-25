@@ -121,3 +121,9 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,1,5,,,
 2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,2,5,,,
 2026-10-17,5,167,7,14:00,3,200,,,Bench Press,competition,competition bench,230,8,3,5,,,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,1,6,,0.5,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,2,6,,0.5,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,3,6,,0.5,Groin during 0.5/10; after 0.5/10
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,1,,,1,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,2,,,1,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,3,,,1,Actual load 405 rather than planned 395; RPE not reported; groin during 1/10; after 0/10
