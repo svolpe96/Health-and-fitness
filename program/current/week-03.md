@@ -13,7 +13,7 @@ Build on Week 2 bench and squat progress while keeping deadlift progression cons
 - Day 5 — Saturday: Technique squat + bench + optional light hinge
 - Sunday: Rest and review
 
-Weights below are **planned, not completed**. If the session occurs late or after a missed day, do not cram sessions together. Use working-set RPE and symptoms to adjust loads. For squat/deadlift, if groin discomfort exceeds 2/10, increases during sets, affects technique, or persists/worsens afterward, stop provoking work and use a comfortable variation or omit; persistent pain should be evaluated by a qualified clinician. Do not treat prior strength as a current tested maximum.
+Original weights were planned; completed sessions below show actual results. If the session occurs late or after a missed day, do not cram sessions together. Use working-set RPE and symptoms to adjust loads. For squat/deadlift, if groin discomfort exceeds 2/10, increases during sets, affects technique, or persists/worsens afterward, stop provoking work and use a comfortable variation or omit; persistent pain should be evaluated by a qualified clinician. Do not treat prior strength as a current tested maximum.
 
 ---
 
@@ -23,7 +23,7 @@ Completed — bench and all four accessories confirmed.
 ### Readiness
 - Bodyweight: 165 lb
 - Sleep: 6 hours
-- Training time: 4:30 (AM/PM unconfirmed)
+- Training time: 4:30 PM
 - Hydration: 1/5
 - Caffeine: 200 mg, afternoon
 - Pre-training energy: 2/5
@@ -177,7 +177,7 @@ Tempo squat + bench volume + optional symptom-guided hinge.
 - Sleep: 8 hours
 
 **Pre-training**
-- Training time: 1:20 (PM unconfirmed)
+- Training time: 1:20 PM
 - Hydration (1–5): 2
 - Caffeine before training: 200 mg
 - Caffeine timing: afternoon
@@ -191,7 +191,7 @@ Use approximately a 3-second descent.
 - [x] Set 3 — 285 lb x 5 — Actual RPE: 5
 - Target: RPE 4–6
 - Groin during: 0/10
-- Groin after: appears 0/10; awaiting confirmation
+- Groin after: 0/10 (confirmed)
 
 ### Competition Bench Press
 - [x] Set 1 — 235 lb x 8 — Actual RPE: 7
@@ -225,7 +225,17 @@ Use approximately a 3-second descent.
 ---
 
 ## Sunday, October 25 — Weekly Review
-No planned lifting.
+Week closed. No planned lifting.
+
+### Week 3 review
+- Monday bench 270 lb 3x5 at RPE 7; Wednesday bench 250 lb 4x6 at RPE 6; Saturday bench 235 lb 3x8 at RPE 7.
+- Tuesday squat 340 lb 3x5 at RPE 6, Friday squat 345 lb 3x5 at RPE 6, Saturday tempo squat 285 lb 3x5 at RPE 5.
+- Tuesday sumo 405 lb 3x3 at RPE 6 with groin 1/10 during and 0/10 after. Optional Saturday sumo skipped.
+- Groin symptoms Friday and Saturday 0/10 during and after squats. Continue symptom-guided deadlift loading.
+- Saturday accessories skipped; no makeup volume. Friday pulldown performance declined across sets; reduce initial load next week.
+- Tuesday leg-extension exact reps remain unconfirmed; Week 2 Friday workout remains unreported.
+- Week 4 starts October 26: continue strength accumulation, modest squat/bench progressions and conservative deadlift loading.
+
 
 Review actual set-by-set squat/bench/deadlift RPE, groin symptoms during and after lifting, any skipped sessions, accessory last-set RPE, bodyweight, sleep, hydration, energy, and session duration. Do not escalate sumo volume simply to replace a skipped session.
 
