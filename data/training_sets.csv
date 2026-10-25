@@ -124,6 +124,11 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,1,6,,0.5,
 2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,2,6,,0.5,
 2026-10-20,2,164.2,8,17:00,3,0,none,3,Squat,competition,competition squat,340,5,3,6,,0.5,Groin during 0.5/10; after 0.5/10
-2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,1,,,1,
-2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,2,,,1,
-2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,3,,,1,Actual load 405 rather than planned 395; RPE not reported; groin during 1/10; after 0/10
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,1,6,,1,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,2,6,,1,
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Deadlift,competition,frog-stance sumo deadlift,405,3,3,6,,1,Actual 405 lb; groin during 1/10 and after 0/10
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Leg Curl,accessory,bilateral lying leg curl,55,12,1,,,,Completed 3x12; last-set RPE 8
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Leg Curl,accessory,bilateral lying leg curl,55,12,2,,,,Completed 3x12; last-set RPE 8
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Leg Curl,accessory,bilateral lying leg curl,55,12,3,,8,,Completed 3x12; last-set RPE 8
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Leg Extension,accessory,bilateral leg extension,140,,1,,,,Completed; exact reps unconfirmed
+2026-10-20,2,164.2,8,17:00,3,0,none,3,Leg Extension,accessory,bilateral leg extension,140,,2,,8,,Completed; exact reps unconfirmed
