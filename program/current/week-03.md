@@ -93,12 +93,12 @@ Completed — confirmed results (leg extension exact reps pending).
 ---
 
 ## Day 3 — Wednesday, October 21
-Bench confirmed; accessory completion and actual RPEs pending confirmation.
+Completed — bench and three accessories confirmed; cable fly skipped.
 
 ### Readiness
 - Bodyweight: 165 lb
 - Sleep: 7 hours
-- Training time: 4:30 (AM/PM not confirmed)
+- Training time: 4:30 PM
 - Hydration: 3/5
 - Caffeine: 200 mg, afternoon
 - Pre-training energy: 3/5
@@ -112,18 +112,18 @@ Bench confirmed; accessory completion and actual RPEs pending confirmation.
 
 ### Seal Row
 - Reported: 155 lb — 3x12
-- Last-set target RPE: 8; actual RPE unconfirmed
+- Actual last-set RPE: 8
 
 ### High-to-Low Cable Chest Fly
 - Skipped (didn't do)
 
 ### Dumbbell Lateral Raise
 - Reported: 20 lb per hand — 3x20
-- Last-set target RPE: 7–8; actual RPE unconfirmed
+- Actual last-set RPE: 8
 
 ### Cable Triceps Pressdown
 - Reported: 100 lb — 3x12
-- Last-set target RPE: 8; actual RPE unconfirmed
+- Actual last-set RPE: 8
 
 ---
 
