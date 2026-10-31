@@ -180,3 +180,48 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-24,5,164.6,8,13:20,2,200,afternoon,3,Bench,competition,competition bench press,235,8,1,7,,,
 2026-10-24,5,164.6,8,13:20,2,200,afternoon,3,Bench,competition,competition bench press,235,8,2,7,,,
 2026-10-24,5,164.6,8,13:20,2,200,afternoon,3,Bench,competition,competition bench press,235,8,3,7,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Bench,competition,competition bench press,275,5,1,7,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Bench,competition,competition bench press,275,5,2,8,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Bench,competition,competition bench press,275,5,3,8,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Seal Row,accessory,seal row,155,12,1,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Seal Row,accessory,seal row,155,12,2,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Seal Row,accessory,seal row,155,12,3,,8,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,11,1,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,11,2,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press,75,11,3,,7,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise,20,25,1,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise,20,25,2,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise,20,25,3,,7,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher,30,10,1,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher,30,10,2,,,,
+2026-10-26,1,165.6,7,17:00,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher,30,10,3,,7,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Squat,competition,competition squat,350,5,1,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Squat,competition,competition squat,350,5,2,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Squat,competition,competition squat,350,5,3,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,405,3,1,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,405,3,2,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Deadlift,competition,frog-stance sumo deadlift,405,3,3,6,,0,Groin during and after 0
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Press,accessory,bilateral leg press,360,10,1,,,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Press,accessory,bilateral leg press,360,10,2,,,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Press,accessory,bilateral leg press,360,10,3,,6,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Curl,accessory,bilateral lying leg curl,55,12,1,,,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Curl,accessory,bilateral lying leg curl,55,12,2,,,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Curl,accessory,bilateral lying leg curl,55,12,3,,7,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Extension,accessory,bilateral leg extension,140,16,1,,,,
+2026-10-27,2,165.6,7,12:00,3,200,afternoon,4,Leg Extension,accessory,bilateral leg extension,140,16,2,,8,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Bench,competition,competition bench press,255,6,1,5,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Bench,competition,competition bench press,255,6,2,6,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Bench,competition,competition bench press,255,6,3,6,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Bench,competition,competition bench press,255,6,4,6,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,1,,,,RPE unclear in screenshot
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,2,,,,RPE unclear in screenshot
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Seal Row,accessory,seal row,155,12,3,,,,RPE unclear in screenshot
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,25,20,1,,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,25,20,2,,,,
+2026-10-28,3,165,8,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise,25,20,3,,8,,
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Squat,competition,competition squat,365,5,1,7,,0,Groin during and after 0
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Squat,competition,competition squat,365,5,2,7,,0,Groin during and after 0
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Squat,competition,competition squat,365,5,3,7,,0,Groin during and after 0
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Bench,competition,close-grip bench press,240,6,1,6,,,
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Bench,competition,close-grip bench press,240,6,2,6,,,
+2026-10-30,4,164.6,6,17:00,3,200,afternoon,,Bench,competition,close-grip bench press,240,6,3,6,,,
