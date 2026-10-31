@@ -76,7 +76,7 @@ Completed main lifts; skipped cable fly and pressdown. BW 165 lb; sleep 8 h; tra
 - [x] 255 lb x 6 — RPE 6
 
 ### Seal Row
-- 155 lb — 3x12; last-set RPE entry unclear (155 entered in RPE field). RPE unconfirmed.
+- 155 lb — 3x12; actual last-set RPE 8 (confirmed).
 
 ### High-to-Low Cable Chest Fly
 - Skipped
@@ -95,7 +95,7 @@ Rest / normal activity. Track groin symptoms and recovery.
 ---
 
 ## Day 4 — Friday, October 30
-Main lifts confirmed; pulldown set count unconfirmed. BW 164.6 lb; sleep 6 h; training 5 PM; hydration 3/5; caffeine 200 mg afternoon; energy not reported.
+Main lifts and pulldown confirmed. BW 164.6 lb; sleep 6 h; training 5 PM; hydration 3/5; caffeine 200 mg afternoon; energy 4/5.
 
 ### Competition Squat
 - [x] 365 lb x 5 — RPE 7
@@ -109,7 +109,7 @@ Main lifts confirmed; pulldown set count unconfirmed. BW 164.6 lb; sleep 6 h; tr
 - [x] 240 lb x 6 — RPE 6
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- Reported 115 lb x 11; last-set RPE 7; number of sets unconfirmed.
+- 115 lb — 3x11; actual last-set RPE 7.
 
 ### Bilateral Leg Extension
 - Skipped
