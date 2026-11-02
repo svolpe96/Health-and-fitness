@@ -1,6 +1,6 @@
 # Week 4 — Strength Accumulation
 Start date: Monday, October 26, 2026
-Status: Monday through Friday reported; Saturday pending.
+Status: Monday through Saturday reported; Saturday squat only.
 
 ## Week objective
 Continue modest bench and squat progression while keeping the groin symptom-free. Week 3: bench 270x5x3 at RPE 7, 250x6x4 at RPE 6, 235x8x3 at RPE 7; squat 340x5x3 and 345x5x3 at RPE 6, tempo squat 285x5x3 at RPE 5; sumo 405x3x3 at RPE 6 with groin 1/10 during and 0 after. Friday/Saturday squats were symptom-free. Friday pulldown fell from 130x10 to 115x10 and 115x8; start lighter. Saturday accessories and optional hinge were skipped. No catch-up sets.
@@ -120,56 +120,40 @@ Main lifts and pulldown confirmed. BW 164.6 lb; sleep 6 h; training 5 PM; hydrat
 ---
 
 ## Day 5 — Saturday, October 31
-Planned.
-
-Tempo squat + bench volume + optional symptom-guided hinge.
+Completed — controlled-eccentric squat only; all other planned exercises skipped.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165.2 lb
+- Sleep: 7 hours
+- Training time: 2 PM
+- Hydration: 3/5
+- Caffeine: 200 mg, afternoon
+- Pre-training energy: 4/5
 
 ### Controlled-Eccentric Squat
-- [ ] Set 1 — 290 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 290 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 290 lb x 5 — Actual RPE: ___
+- [x] Set 1 — 290 lb x 5 — Actual RPE: 5
+- [x] Set 2 — 290 lb x 5 — Actual RPE: 5
+- [x] Set 3 — 290 lb x 5 — Actual RPE: 5
 - Target RPE: 4–6
-- Groin during: ___/10
-- Groin after: ___/10
-- Use approximately 3-second descent.
+- Groin during: 0/10; after: 0/10
+- Approximately 3-second descent.
 
 ### Competition Bench Press
-- [ ] Set 1 — 235 lb x 8 — Actual RPE: ___
-- [ ] Set 2 — 235 lb x 8 — Actual RPE: ___
-- [ ] Set 3 — 235 lb x 8 — Actual RPE: ___
-- Target RPE: 5–7
+- Skipped (planned 235 lb — 3x8).
 
 ### Optional Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 345 lb x 4 — Actual RPE: ___
-- [ ] Set 2 — 345 lb x 4 — Actual RPE: ___
-- Target RPE: 4–5
-- Groin during: ___/10
-- Groin after: ___/10
-- OPTIONAL only if symptoms stay <=1/10 and fully resolve after lifting; skip if any concern, do not make up volume.
+- Skipped (planned 345 lb — 2x4).
 
 ### Bilateral Lying Leg Curl
-- 55 lb — 3x12
-- Actual last-set RPE: ___ (target 7–8)
+- Skipped (planned 55 lb — 3x12).
 
 ### Barbell Seal Row
-- 150 lb — 3x12
-- Actual last-set RPE: ___ (target 7–8)
+- Skipped (planned 150 lb — 3x12).
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Actual last-set RPE: ___ (target 7–8)
+- Skipped (planned 20 lb per hand — 3x20).
+
+No makeup volume. Reason for omissions not reported.
 
 ---
 
