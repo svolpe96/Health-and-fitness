@@ -83,8 +83,8 @@ Squat strength + symptom-guided sumo.
 
 ### Competition Squat
 - [x] Set 1 — 365 lb x 5 — Actual RPE: 6
-- [x] Set 2 — 360 lb x 5 — Actual RPE: 6
-- [x] Set 3 — 360 lb x 5 — Actual RPE: 6
+- [x] Set 2 — 365 lb x 5 — Actual RPE: 6
+- [x] Set 3 — 365 lb x 5 — Actual RPE: 6
 - Target RPE: 6–7
 - Groin: 0/10 reported
 
