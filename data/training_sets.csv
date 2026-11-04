@@ -249,9 +249,9 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,365,5,1,6,,0,Groin 0 reported
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,360,5,2,6,,0,Groin 0 reported
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,360,5,3,6,,0,Groin 0 reported
-2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,1,6,,5,Groin 5 during and 0 after
-2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,2,6,,5,Groin 5 during and 0 after
-2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,3,6,,5,Groin 5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,1,6,,0.5,Groin 0.5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,2,6,,0.5,Groin 0.5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,3,6,,0.5,Groin 0.5 during and 0 after
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,1,,,,
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,2,,,,
 2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,3,,7,,
