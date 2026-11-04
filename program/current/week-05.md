@@ -93,8 +93,8 @@ Squat strength + symptom-guided sumo.
 - [x] Set 2 — 405 lb x 3 — Actual RPE: 6
 - [x] Set 3 — 405 lb x 3 — Actual RPE: 6
 - Target RPE: 5–7
-- Groin during: 5/10; after: 0/10
-- Coaching flag: no load progression until symptoms are reviewed; avoid aggravating hinge loading.
+- Groin during: 0.5/10; after: 0/10
+- Coaching note: athlete clarified groin discomfort was 0.5/10 (not 5/10). Continue conservative, symptom-guided progression; monitor during and after lifting.
 
 ### Bilateral Leg Press
 - 410 lb — 3x10
