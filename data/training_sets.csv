@@ -231,3 +231,30 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-10-31,5,165.2,7,14:00,3,200,afternoon,4,Squat,variation,controlled-eccentric squat,290,5,1,5,,0,Groin 0 during and after; 3-second descent
 2026-10-31,5,165.2,7,14:00,3,200,afternoon,4,Squat,variation,controlled-eccentric squat,290,5,2,5,,0,Groin 0 during and after; 3-second descent
 2026-10-31,5,165.2,7,14:00,3,200,afternoon,4,Squat,variation,controlled-eccentric squat,290,5,3,5,,0,Groin 0 during and after; 3-second descent
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Bench Press,competition,competition bench,275,5,1,7,,,All sets RPE 7
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Bench Press,competition,competition bench,275,5,2,7,,,All sets RPE 7
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Bench Press,competition,competition bench,275,5,3,7,,,All sets RPE 7
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Seal Row,accessory,barbell seal row,155,13,1,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Seal Row,accessory,barbell seal row,155,13,2,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Seal Row,accessory,barbell seal row,155,13,3,,8,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press per hand,75,13,1,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press per hand,75,13,2,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Incline Dumbbell Press,accessory,incline dumbbell press per hand,75,13,3,,8,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,20,1,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,20,2,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,20,3,,7,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher per hand,30,10,1,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher per hand,30,10,2,,,,
+2026-11-02,1,167.4,7,16:30,3,200,afternoon,4,Skull Crusher,accessory,dumbbell skull crusher per hand,30,10,3,,7,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,365,5,1,6,,0,Groin 0 reported
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,360,5,2,6,,0,Groin 0 reported
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Squat,competition,competition squat,360,5,3,6,,0,Groin 0 reported
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,1,6,,5,Groin 5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,2,6,,5,Groin 5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Deadlift,variation,frog-stance sumo deadlift,405,3,3,6,,5,Groin 5 during and 0 after
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,1,,,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,2,,,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Press,accessory,bilateral leg press,410,10,3,,7,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Curl,accessory,bilateral lying leg curl,55,14,1,,,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Curl,accessory,bilateral lying leg curl,55,14,2,,,,
+2026-11-03,2,165.8,8,18:00,3,,afternoon,3,Leg Curl,accessory,bilateral lying leg curl,55,14,3,,8,,
