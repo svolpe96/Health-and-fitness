@@ -3,7 +3,7 @@ Start date: Monday, November 9, 2026
 Status: Planned; no Week 6 workouts reported.
 
 ## Week objective
-Continue measured squat and bench progression without adding unearned volume. Week 5: Monday bench 275x5x3 @7/7/7; Tuesday squat 365x5x3 @6/6/6, groin 0/10; sumo 405x3x3 @6/6/6 with groin 0.5/10 during and 0 after; Wednesday bench 260x6x4 @6/6/6/7; Friday squat first set 375x5 @6 (sets 2–3 RPE unreported), close-grip bench 245x6x3 @8/7/7. Saturday Nov 7 was not performed. Do not infer missing Friday squat RPE or count Saturday work as completed.
+Continue measured squat and bench progression without adding unearned volume. Week 5: Monday bench 275x5x3 @7/7/7; Tuesday squat 365x5x3 @6/6/6, groin 0/10; sumo 405x3x3 @6/6/6 with groin 0.5/10 during and 0 after; Wednesday bench 260x6x4 @6/6/6/7; Friday squat 375x5x3 @6/6/6, close-grip bench 245x6x3 @8/7/7. Saturday Nov 7 was not performed. Friday squat groin response not reported; do not assume symptom-free. Do not count Saturday work as completed.
 
 ### Weekly structure
 - Monday: Bench strength + upper hypertrophy
@@ -193,7 +193,7 @@ Squat strength + close-grip bench.
 - [ ] Set 2 — 375 lb x 5 — Actual RPE: ___
 - [ ] Set 3 — 375 lb x 5 — Actual RPE: ___
 - Target RPE: 7–8
-- Repeat Week 5 Friday load rather than assume missing RPEs from sets 2–3. Groin during ___/10; after ___/10. Consider reducing if Tuesday squat or readiness indicates fatigue.
+- Repeat Week 5 Friday 375x5x3 @6/6/6 as a conservative prescription; if Tuesday performance and warm-ups remain strong, a small increase up to 380 lb is reasonable within target RPE. Groin during ___/10; after ___/10.
 
 ### Close-Grip Bench Press
 - [ ] Set 1 — 245 lb x 6 — Actual RPE: ___
