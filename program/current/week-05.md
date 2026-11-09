@@ -1,6 +1,6 @@
 # Week 5 — Strength Accumulation
 Start date: Monday, November 2, 2026
-Status: Monday through Wednesday reported; Friday and Saturday pending.
+Status: Monday through Friday reported; Saturday skipped.
 
 ## Week objective
 Continue squat strength progress with controlled RPE, consolidate Monday bench at 275 after Week 4's 7/8/8, progress Wednesday bench cautiously, and maintain conservative symptom-guided sumo loading. Week 4 Saturday was squat only (290x5x3 @5/5/5, groin 0 during/after); bench and accessories skipped, so do not infer their performance or add makeup volume. Current phase remains strength accumulation; no evidence-based reason for an automatic deload solely because four weeks have passed.
@@ -155,51 +155,52 @@ Rest. Do not cram missed training into the rest day.
 ---
 
 ## Day 4 — Friday, November 6
+Completed; bilateral leg extension skipped.
+
 Squat strength + close-grip bench.
 
 ### Readiness
 **Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
+- Bodyweight: 166.4 lb
+- Sleep: 8 hours
 
 **Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg (only if reported)
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Training time: 1:30 PM
+- Hydration (1–5): 2
+- Caffeine before training: 200 mg
+- Caffeine timing: afternoon
+- Pre-training energy (1–5): 4
 
 ### Competition Squat
-- [ ] Set 1 — 370 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 370 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 370 lb x 5 — Actual RPE: ___
-- Target RPE: 7–8; groin during: ___/10; after: ___/10.
-- +5 lb vs Week 4 Friday 365x5x3 @7; maintain instead if Tuesday or readiness suggests fatigue.
+- [x] Set 1 — 375 lb x 5 — Actual RPE: 6
+- [x] Set 2 — 375 lb x 5 — Actual RPE: 6
+- [x] Set 3 — 375 lb x 5 — Actual RPE: 6
+- Target RPE: 7–8
+- Groin during: not reported; after: not reported
+- Athlete confirmed all three sets at RPE 6.
 
 ### Close-Grip Bench Press
-- [ ] Set 1 — 245 lb x 6 — Actual RPE: ___
-- [ ] Set 2 — 245 lb x 6 — Actual RPE: ___
-- [ ] Set 3 — 245 lb x 6 — Actual RPE: ___
-- Target RPE: 6–7; +5 lb vs Week 4 Friday 240x6x3 @6.
+- [x] Set 1 — 245 lb x 6 — Actual RPE: 8
+- [x] Set 2 — 245 lb x 6 — Actual RPE: 7
+- [x] Set 3 — 245 lb x 6 — Actual RPE: 7
+- Target RPE: 6–7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- 115 lb — 3x12 if appropriate, else 3x11
-- Last-set target RPE 7–8
-- Actual last-set RPE: ___
+- 115 lb — 3x12
+- Actual last-set RPE: 7
 
 ### Bilateral Leg Extension
-- 140 lb — 2x16 if time
-- Last-set target RPE 8
-- Actual last-set RPE: ___
+- Skipped
 
 ### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20–25 if time
-- Last-set target RPE 7–9
-- Actual last-set RPE: ___
+- 25 lb per hand — 3x22
+- Actual last-set RPE: 7
 
 ---
 
 ## Day 5 — Saturday, November 7
+Skipped — no workout performed. All prescriptions below are unperformed plans, not completed sets.
+
 Technique squat + bench volume + optional symptom-guided hinge.
 
 ### Readiness
