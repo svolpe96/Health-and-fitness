@@ -68,10 +68,10 @@ Competition lifts, leg press, and leg curls completed; leg extension not confirm
 - Groin during: 0/10; after: 0/10; next day: 0/10.
 
 ### Bilateral Leg Press
-- Completed leg press; screenshot lists 410 lb 3x12 (or 3x10). Exact reps and last-set RPE not yet confirmed.
+- Completed 410 lb — 3x12; actual last-set RPE 7.
 
 ### Bilateral Lying Leg Curl
-- Completed lying leg curls; screenshot lists 55 lb 3x15. Exact reps and last-set RPE not yet confirmed.
+- Completed 55 lb — 3x15; actual last-set RPE 9.
 
 ### Bilateral Leg Extension
 - Planned 140 lb 2x16 optional; actual completion not reported.
@@ -99,7 +99,7 @@ Competition bench and seal row reported; cable fly and triceps pressdown skipped
 - Skipped.
 
 ### Dumbbell Lateral Raise
-- Completed dumbbell lateral raises; screenshot lists 30 lb per hand 3x15 if RPE allows. Exact reps and last-set RPE not yet confirmed.
+- Completed 30 lb per hand — 3x15; actual last-set RPE 8.
 
 ### Cable Triceps Pressdown
 - Skipped.
