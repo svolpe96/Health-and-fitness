@@ -1,6 +1,6 @@
 # Week 6 — Strength Accumulation
 Start date: Monday, November 9, 2026
-Status: Planned; no Week 6 workouts reported.
+Status: Monday–Wednesday reported; Friday/Saturday pending.
 
 ## Week objective
 Continue measured squat and bench progression without adding unearned volume. Week 5: Monday bench 275x5x3 @7/7/7; Tuesday squat 365x5x3 @6/6/6, groin 0/10; sumo 405x3x3 @6/6/6 with groin 0.5/10 during and 0 after; Wednesday bench 260x6x4 @6/6/6/7; Friday squat 375x5x3 @6/6/6, close-grip bench 245x6x3 @8/7/7. Saturday Nov 7 was not performed. Friday squat groin response not reported; do not assume symptom-free. Do not count Saturday work as completed.
@@ -23,148 +23,86 @@ Continue measured squat and bench progression without adding unearned volume. We
 ---
 
 ## Day 1 — Monday, November 9
-Bench strength + upper hypertrophy.
+Completed competition bench; lateral raises reported. Other accessories not confirmed.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165.8 lb; sleep: 7 hours; training: 5:00 PM
+- Hydration: 3/5; caffeine: 200 mg, afternoon; energy: 3/5
 
 ### Competition Bench Press
-- [ ] Set 1 — 280 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 280 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 280 lb x 5 — Actual RPE: ___
-- Target RPE: 7–8
-- Proposed +5 lb vs Week 5 Monday 275x5x3 @7/7/7; use 275 if warm-ups suggest higher-than-expected effort.
+- [x] Set 1 — 280 lb x 5 — Actual RPE: 7
+- [x] Set 2 — 280 lb x 5 — Actual RPE: 7
+- [x] Set 3 — 280 lb x 5 — Actual RPE: 7
 
 ### Barbell Seal Row
-- 155 lb — 3x13–14
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Skipped.
 
 ### Incline Dumbbell Press
-- 75 lb per hand — 3x14 if achievable at target RPE; otherwise 3x13
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Planned 75 lb per hand 3x14; actual completion not reported.
 
 ### Dumbbell Lateral Raise
-- 25 lb per hand — 3x21–22
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Reported 25 lb per hand — 3x22; last-set RPE 7.
 
 ### Dumbbell Skull Crusher
-- 30 lb per hand — 3x11 if within target; otherwise 3x10
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Planned 30 lb per hand 3x11; actual completion not reported.
 
 ---
 
 ## Day 2 — Tuesday, November 10
-Squat strength + symptom-guided sumo.
+Competition lifts completed; accessory completion not confirmed.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165.4 lb; sleep: 7 hours; training: 4:30 PM
+- Hydration: 3/5; caffeine: 200 mg, afternoon; energy: 3/5
 
 ### Competition Squat
-- [ ] Set 1 — 375 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 375 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 375 lb x 5 — Actual RPE: ___
-- Target RPE: 6–7
-- Proposed +10 lb vs Week 5 Tuesday 365x5x3 @6/6/6. Groin during ___/10; after ___/10.
+- [x] Set 1 — 385 lb x 5 — Actual RPE: 6
+- [x] Set 2 — 385 lb x 5 — Actual RPE: 7
+- [x] Set 3 — 385 lb x 5 — Actual RPE: 7
+- Groin during: 0/10; after: 0/10.
 
 ### Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 405 lb x 3 — Actual RPE: ___
-- [ ] Set 2 — 405 lb x 3 — Actual RPE: ___
-- [ ] Set 3 — 405 lb x 3 — Actual RPE: ___
-- Target RPE: 5–7
-- Repeat 405 while verifying symptom tolerance; Week 5 discomfort 0.5/10 during, 0 after. Groin during ___/10; after ___/10; next day ___/10.
+- [x] Set 1 — 405 lb x 3 — Actual RPE: 4
+- [x] Set 2 — 405 lb x 3 — Actual RPE: 4
+- [x] Set 3 — 405 lb x 3 — Actual RPE: 4
+- Groin during: 0/10; after: 0/10; next day: 0/10.
 
 ### Bilateral Leg Press
-- 410 lb — 3x11 (or 3x10 if effort exceeds target)
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Planned 410 lb 3x12 (or 3x10); actual completion not reported.
 
 ### Bilateral Lying Leg Curl
-- 55 lb — 3x15 if within RPE ceiling, otherwise 3x14
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Planned 55 lb 3x15; actual completion not reported.
 
 ### Bilateral Leg Extension
-- 140 lb — 2x16 if time
-- Target last-set RPE: 8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Planned 140 lb 2x16 optional; actual completion not reported.
 
 ---
 
 ## Day 3 — Wednesday, November 11
-Bench volume + upper hypertrophy.
+Competition bench and seal row reported; cable fly and triceps pressdown skipped.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 164.6 lb; sleep: 8 hours; training: 5:00 PM
+- Hydration: 2/5; caffeine: none; energy: 3/5
 
 ### Competition Bench Press
-- [ ] Set 1 — 265 lb x 6 — Actual RPE: ___
-- [ ] Set 2 — 265 lb x 6 — Actual RPE: ___
-- [ ] Set 3 — 265 lb x 6 — Actual RPE: ___
-- [ ] Set 4 — 265 lb x 6 — Actual RPE: ___
-- Target RPE: 6–7
-- Proposed +5 lb vs Week 5 Wednesday 260x6x4 @6/6/6/7. Hold 260 if recovery or warm-ups warrant.
+- [x] Set 1 — 275 lb x 6 — Actual RPE: 7
+- [x] Set 2 — 275 lb x 6 — Actual RPE: 7
+- [x] Set 3 — 275 lb x 6 — Actual RPE: 8
+- [x] Set 4 — 275 lb x 6 — Actual RPE: 8
+- Actual load was 10 lb above original Week 6 plan (265 lb). Target RPE was 6–7.
 
 ### Barbell Seal Row
-- 155 lb — 3x12–13
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Reported 155 lb — 3x13; actual last-set RPE 8.
 
 ### High-to-Low Cable Chest Fly
-- 100 lb — 3x12–15 if time; previously skipped
-- Target last-set RPE: 8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Skipped.
 
 ### Dumbbell Lateral Raise
-- 25 lb per hand — 3x22 if RPE allows
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Screenshot shows 30 lb per hand 3x15 *if RPE allows*; actual completion and RPE not confirmed.
 
 ### Cable Triceps Pressdown
-- 100 lb — 3x12 if time; previously skipped
-- Target last-set RPE: 8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Skipped.
 
 ---
 
