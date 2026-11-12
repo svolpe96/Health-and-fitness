@@ -49,7 +49,7 @@ Completed competition bench; lateral raises reported. Other accessories not conf
 ---
 
 ## Day 2 — Tuesday, November 10
-Competition lifts completed; accessory completion not confirmed.
+Competition lifts, leg press, and leg curls completed; leg extension not confirmed.
 
 ### Readiness
 - Bodyweight: 165.4 lb; sleep: 7 hours; training: 4:30 PM
@@ -68,10 +68,10 @@ Competition lifts completed; accessory completion not confirmed.
 - Groin during: 0/10; after: 0/10; next day: 0/10.
 
 ### Bilateral Leg Press
-- Planned 410 lb 3x12 (or 3x10); actual completion not reported.
+- Completed leg press; screenshot lists 410 lb 3x12 (or 3x10). Exact reps and last-set RPE not yet confirmed.
 
 ### Bilateral Lying Leg Curl
-- Planned 55 lb 3x15; actual completion not reported.
+- Completed lying leg curls; screenshot lists 55 lb 3x15. Exact reps and last-set RPE not yet confirmed.
 
 ### Bilateral Leg Extension
 - Planned 140 lb 2x16 optional; actual completion not reported.
@@ -99,7 +99,7 @@ Competition bench and seal row reported; cable fly and triceps pressdown skipped
 - Skipped.
 
 ### Dumbbell Lateral Raise
-- Screenshot shows 30 lb per hand 3x15 *if RPE allows*; actual completion and RPE not confirmed.
+- Completed dumbbell lateral raises; screenshot lists 30 lb per hand 3x15 if RPE allows. Exact reps and last-set RPE not yet confirmed.
 
 ### Cable Triceps Pressdown
 - Skipped.
