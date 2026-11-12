@@ -280,3 +280,22 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-11-06,4,166.4,8,13:30,2,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,1,,,,
 2026-11-06,4,166.4,8,13:30,2,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,2,,,,
 2026-11-06,4,166.4,8,13:30,2,200,afternoon,4,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,3,,7,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Bench Press,competition,competition bench,280,5,1,7,,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Bench Press,competition,competition bench,280,5,2,7,,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Bench Press,competition,competition bench,280,5,3,7,,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,1,,,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,2,,,,
+2026-11-09,1,165.8,7,17:00,3,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,25,22,3,,7,,
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Squat,competition,competition squat,385,5,1,6,,0,Groin during and after 0/10
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Squat,competition,competition squat,385,5,2,7,,0,Groin during and after 0/10
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Squat,competition,competition squat,385,5,3,7,,0,Groin during and after 0/10
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Deadlift,competition,frog-stance sumo deadlift,405,3,1,4,,0,Groin during after and next day 0/10
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Deadlift,competition,frog-stance sumo deadlift,405,3,2,4,,0,Groin during after and next day 0/10
+2026-11-10,2,165.4,7,16:30,3,200,afternoon,3,Deadlift,competition,frog-stance sumo deadlift,405,3,3,4,,0,Groin during after and next day 0/10
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Bench Press,competition,competition bench,275,6,1,7,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Bench Press,competition,competition bench,275,6,2,7,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Bench Press,competition,competition bench,275,6,3,8,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Bench Press,competition,competition bench,275,6,4,8,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Seal Row,accessory,barbell seal row,155,13,1,,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Seal Row,accessory,barbell seal row,155,13,2,,,,
+2026-11-11,3,164.6,8,17:00,2,0,none,3,Seal Row,accessory,barbell seal row,155,13,3,,8,,
