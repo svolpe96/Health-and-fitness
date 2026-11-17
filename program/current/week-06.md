@@ -112,106 +112,37 @@ Rest. No makeup volume.
 ---
 
 ## Day 4 — Friday, November 13
-Squat strength + close-grip bench.
+Competition squat and close-grip bench completed. Leg extension skipped. Lat pulldown and lateral raise completion unconfirmed.
 
 ### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
+- Bodyweight: 165 lb; sleep: 7 hours; training: 2:00 PM
+- Hydration: 3/5; caffeine: 200 mg, afternoon; pre-training energy: not reported.
 
 ### Competition Squat
-- [ ] Set 1 — 375 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 375 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 375 lb x 5 — Actual RPE: ___
-- Target RPE: 7–8
-- Repeat Week 5 Friday 375x5x3 @6/6/6 as a conservative prescription; if Tuesday performance and warm-ups remain strong, a small increase up to 380 lb is reasonable within target RPE. Groin during ___/10; after ___/10.
+- [x] Set 1 — 405 lb x 5 — Actual RPE: 8
+- [x] Set 2 — 405 lb x 5 — Actual RPE: 8
+- [x] Set 3 — 405 lb x 5 — Actual RPE: 9
+- Groin symptoms during/after: not reported.
+- Athlete used 405 rather than prescribed 375–380; high effort relative to target 7–8. Do not automatically increase next exposure.
 
 ### Close-Grip Bench Press
-- [ ] Set 1 — 245 lb x 6 — Actual RPE: ___
-- [ ] Set 2 — 245 lb x 6 — Actual RPE: ___
-- [ ] Set 3 — 245 lb x 6 — Actual RPE: ___
-- Target RPE: 6–7
-- Hold Week 5 Friday load because set 1 was RPE 8 (then 7/7); no automatic increase.
+- [x] Set 1 — 245 lb x 6 — Actual RPE: 7
+- [x] Set 2 — 245 lb x 6 — Actual RPE: 7
+- [x] Set 3 — 245 lb x 6 — Actual RPE: 7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- 115 lb — 3x12
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- 115 lb — 3x12 listed in screenshot; completion and actual RPE not confirmed.
 
 ### Bilateral Leg Extension
-- 140 lb — 2x16 if time
-- Target last-set RPE: 8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Skipped.
 
 ### Dumbbell Lateral Raise
-- 25 lb per hand — 3x20–22 if time
-- Target last-set RPE: 7–9
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+- Completion not reported.
 
 ---
 
 ## Day 5 — Saturday, November 14
-Optional technique squat + bench volume + symptom-guided hinge. No makeup work for Week 5 Saturday.
-
-### Readiness
-**Morning**
-- Bodyweight: ___ lb
-- Sleep: ___ hours
-
-**Pre-training**
-- Training time: ___
-- Hydration (1–5): ___
-- Caffeine before training: ___ mg
-- Caffeine timing (morning / afternoon / night): ___
-- Pre-training energy (1–5): ___
-
-### Controlled-Eccentric Squat
-- [ ] Set 1 — 295 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 295 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 295 lb x 5 — Actual RPE: ___
-- Target RPE: 4–6
-- ~3-second descent. Repeat unperformed Week 5 prescription; last completed tempo squat was 290x5x3 @5 on Oct 31. Groin during ___/10; after ___/10.
-
-### Competition Bench Press
-- [ ] Set 1 — 235 lb x 8 — Actual RPE: ___
-- [ ] Set 2 — 235 lb x 8 — Actual RPE: ___
-- [ ] Set 3 — 235 lb x 8 — Actual RPE: ___
-- Target RPE: 5–7
-- Repeat planned load because Week 4 and Week 5 Saturday bench were not performed; adjust to actual RPE.
-
-### Optional Frog-Stance Sumo Deadlift
-- [ ] Set 1 — 345 lb x 4 — Actual RPE: ___
-- [ ] Set 2 — 345 lb x 4 — Actual RPE: ___
-- Target RPE: 4–5
-- Only if symptom-free warm-ups and no concerning response to Tuesday. Groin during ___/10; after ___/10. Skip without makeup volume if any concern.
-
-### Bilateral Lying Leg Curl
-- 55 lb — 3x12
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
-
-### Barbell Seal Row
-- 150 lb — 3x12
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
-
-### Dumbbell Lateral Raise
-- 20 lb per hand — 3x20
-- Target last-set RPE: 7–8
-- Actual sets/reps/load: ___
-- Actual last-set RPE: ___
+Skipped — no workout performed. No planned exercises count as completed; no makeup volume.
 
 ---
 
