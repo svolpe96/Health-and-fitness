@@ -314,3 +314,6 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Bench Press,variation,close-grip bench press,245,6,1,7,,,
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Bench Press,variation,close-grip bench press,245,6,2,7,,,
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Bench Press,variation,close-grip bench press,245,6,3,7,,,
+2026-11-13,4,165,7,14:00,3,200,afternoon,,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown,115,12,1,,,,Last-set RPE not reported
+2026-11-13,4,165,7,14:00,3,200,afternoon,,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown,115,12,2,,,,Last-set RPE not reported
+2026-11-13,4,165,7,14:00,3,200,afternoon,,Lat Pulldown,accessory,medium-close neutral-grip lat pulldown,115,12,3,,,,Last-set RPE not reported
