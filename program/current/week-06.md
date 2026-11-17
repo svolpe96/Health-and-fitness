@@ -112,7 +112,7 @@ Rest. No makeup volume.
 ---
 
 ## Day 4 — Friday, November 13
-Competition squat and close-grip bench completed. Leg extension skipped. Lat pulldown and lateral raise completion unconfirmed.
+Competition squat and close-grip bench completed. Leg extension skipped. Lat pulldown and lateral raise completion confirmed; last-set RPEs not reported.
 
 ### Readiness
 - Bodyweight: 165 lb; sleep: 7 hours; training: 2:00 PM
@@ -122,7 +122,7 @@ Competition squat and close-grip bench completed. Leg extension skipped. Lat pul
 - [x] Set 1 — 405 lb x 5 — Actual RPE: 8
 - [x] Set 2 — 405 lb x 5 — Actual RPE: 8
 - [x] Set 3 — 405 lb x 5 — Actual RPE: 9
-- Groin symptoms during/after: not reported.
+- Groin symptoms during/after/next day: 0/10 (athlete confirmed no pain).
 - Athlete used 405 rather than prescribed 375–380; high effort relative to target 7–8. Do not automatically increase next exposure.
 
 ### Close-Grip Bench Press
@@ -131,13 +131,13 @@ Competition squat and close-grip bench completed. Leg extension skipped. Lat pul
 - [x] Set 3 — 245 lb x 6 — Actual RPE: 7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
-- 115 lb — 3x12 listed in screenshot; completion and actual RPE not confirmed.
+- Completed 115 lb — 3x12; last-set RPE not reported.
 
 ### Bilateral Leg Extension
 - Skipped.
 
 ### Dumbbell Lateral Raise
-- Completion not reported.
+- Completed; load, reps, and last-set RPE not reported.
 
 ---
 
