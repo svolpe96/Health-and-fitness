@@ -137,7 +137,7 @@ Competition squat and close-grip bench completed. Leg extension skipped. Lat pul
 - Skipped.
 
 ### Dumbbell Lateral Raise
-- Completed; load, reps, and last-set RPE not reported.
+- Completed 30 lb per hand — 2x16; last-set RPE not reported.
 
 ---
 
