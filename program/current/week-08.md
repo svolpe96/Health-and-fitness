@@ -27,11 +27,11 @@ Bench strength + upper hypertrophy.
 - Energy (1–5): ___
 
 ### Competition Bench Press
-- [ ] Set 1 — 265 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 265 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 265 lb x 5 — Actual RPE: ___
-- Target RPE: 6–7
-- Reduced from Week 7 285 overshoot. If warmups or first set indicate >8, lower 5–10 lb; no extra fourth set.
+- [ ] Set 1 — 275 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 275 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 275 lb x 5 — Actual RPE: ___
+- Target RPE: 7–8
+- Adjusted to 275 lb at athlete request; prior 275x5x3 @7/7/7, but Week 7 285 overshot @9/9/9/10. If first set reaches RPE 9, reduce 5–10 lb. No fourth set.
 
 ### Barbell Seal Row
 - Planned: 155 lb — 3x14; target last-set RPE: 7–8
