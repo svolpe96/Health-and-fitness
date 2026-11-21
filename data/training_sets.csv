@@ -320,3 +320,41 @@ date,session_day,morning_bodyweight_lb,sleep_hours,training_time,hydration_pretr
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Lateral Raise,accessory,dumbbell lateral raise per hand,30,16,1,,,,Last-set RPE not reported
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Lateral Raise,accessory,dumbbell lateral raise per hand,30,16,2,,,,Last-set RPE not reported
 2026-11-13,4,165,7,14:00,3,200,afternoon,,Lateral Raise,accessory,dumbbell lateral raise per hand,30,16,3,,,,Last-set RPE not reported
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Bench Press,competition,competition bench,285,4,1,9,,,Extra fourth set; prescribed 3x5
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Bench Press,competition,competition bench,285,4,2,9,,,Extra fourth set; prescribed 3x5
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Bench Press,competition,competition bench,285,4,3,9,,,Extra fourth set; prescribed 3x5
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Bench Press,competition,competition bench,285,3,4,10,,,Extra fourth set; prescribed 3x5
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Seal Row,accessory,barbell seal row,155,14,1,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Seal Row,accessory,barbell seal row,155,14,2,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Seal Row,accessory,barbell seal row,155,14,3,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Incline DB Press,accessory,incline dumbbell press per hand,75,12,1,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Incline DB Press,accessory,incline dumbbell press per hand,75,12,2,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Incline DB Press,accessory,incline dumbbell press per hand,75,12,3,,8,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,30,15,1,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,30,15,2,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Lateral Raise,accessory,dumbbell lateral raise per hand,30,15,3,,9,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Skull Crusher,accessory,dumbbell skull crusher per hand,30,11,1,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Skull Crusher,accessory,dumbbell skull crusher per hand,30,11,2,,,,
+2026-11-16,1,165.2,7,17:00,4,200,afternoon,3,Skull Crusher,accessory,dumbbell skull crusher per hand,30,11,3,,8,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Squat,competition,competition squat,405,5,1,7,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Squat,competition,competition squat,405,5,2,7,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Squat,competition,competition squat,405,5,3,8,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Deadlift,competition,frog-stance sumo deadlift,425,3,1,5,,,No groin pain reported
+2026-11-17,2,165.8,7,17:00,3,200,,4,Deadlift,competition,frog-stance sumo deadlift,425,3,2,5,,,No groin pain reported
+2026-11-17,2,165.8,7,17:00,3,200,,4,Deadlift,competition,frog-stance sumo deadlift,425,3,3,6,,,No groin pain reported
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Press,accessory,plate-loaded squat press bilateral NEW variation,360,10,1,,,,RPE 5 shown as target not confirmed actual
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Press,accessory,plate-loaded squat press bilateral NEW variation,360,10,2,,,,RPE 5 shown as target not confirmed actual
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Press,accessory,plate-loaded squat press bilateral NEW variation,360,10,3,,,,RPE 5 shown as target not confirmed actual
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Curl,accessory,bilateral lying leg curl,60,10,1,,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Curl,accessory,bilateral lying leg curl,60,10,2,,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Curl,accessory,bilateral lying leg curl,60,10,3,,8,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Extension,accessory,bilateral leg extension,150,10,1,,,,
+2026-11-17,2,165.8,7,17:00,3,200,,4,Leg Extension,accessory,bilateral leg extension,150,10,2,,6,,
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Squat,competition,competition squat belt and knee sleeves,425,5,1,7,,,No groin pain; belt and knee sleeves resumed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Squat,competition,competition squat belt and knee sleeves,425,5,2,7,,,No groin pain; belt and knee sleeves resumed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Squat,competition,competition squat belt and knee sleeves,425,5,3,8,,,No groin pain; belt and knee sleeves resumed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Bench Press,variation,close-grip bench press,250,6,1,,,,RPE described as same as previous; numeric unconfirmed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Bench Press,variation,close-grip bench press,250,6,2,,,,RPE described as same as previous; numeric unconfirmed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Bench Press,variation,close-grip bench press,250,6,3,,,,RPE described as same as previous; numeric unconfirmed
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Leg Extension,accessory,bilateral leg extension,140,10,1,,,,
+2026-11-20,4,166.2,8,12:00,3,200,afternoon,5,Leg Extension,accessory,bilateral leg extension,140,10,2,,6,,
