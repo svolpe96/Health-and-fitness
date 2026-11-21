@@ -3,7 +3,7 @@ Start date: Monday, November 23, 2026
 Status: Planned — no completed Week 8 workouts reported.
 
 ## Objective and decisions
-Week 7 Monday bench 285 for 4/4/4/3 at RPE 9/9/9/10 was too hard; back off to productive submaximal bench work rather than repeat RPE 10. Wednesday bench was skipped. Week 7 Friday squat 425x5x3 at 7/7/8 using belt and sleeves and no groin pain; consolidate that load. Tuesday sumo 425x3x3 at 5/5/6 without reported pain supports a cautious +10 lb trial only if symptom-free. Two Week 7 sessions skipped; do not make them up.
+Week 7 Monday bench 285 for 4/4/4/3 at RPE 9/9/9/10 was too hard; back off to productive submaximal bench work rather than repeat RPE 10. Wednesday bench was skipped. Week 7 Friday squat 425x5x3 at 7/7/8 using belt and sleeves and no groin pain; progress carefully with an RPE cap. Tuesday sumo 425x3x3 at 5/5/6 without reported pain supports a cautious +10 lb trial only if symptom-free. Two Week 7 sessions skipped; do not make them up.
 
 ## Check-in fields (updated)
 Track only morning bodyweight, sleep hours, hydration (1–5), and pre-training energy (1–5). **Training time and caffeine are removed from check-ins going forward.**
@@ -65,11 +65,11 @@ Squat strength + symptom-guided sumo.
 - Energy (1–5): ___
 
 ### Competition Squat
-- [ ] Set 1 — 415 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 415 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 415 lb x 5 — Actual RPE: ___
+- [ ] Set 1 — 425 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 425 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 425 lb x 5 — Actual RPE: ___
 - Target RPE: 6–8
-- Week 7 Tuesday 405x5x3 @7/7/8. Use belt/sleeves consistently if selected; reduce if RPE rises above target.
+- Week 8 increased +10 lb from original prescription (415 to 425) at athlete request. Week 7 Tuesday 405x5x3 @7/7/8. Use belt/sleeves consistently; reduce if RPE rises above target.
 - Groin during ___/10; after ___/10; next day ___/10.
 
 ### Frog-Stance Sumo Deadlift
@@ -151,11 +151,11 @@ Squat strength + close-grip bench.
 - Energy (1–5): ___
 
 ### Competition Squat
-- [ ] Set 1 — 425 lb x 5 — Actual RPE: ___
-- [ ] Set 2 — 425 lb x 5 — Actual RPE: ___
-- [ ] Set 3 — 425 lb x 5 — Actual RPE: ___
+- [ ] Set 1 — 435 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 435 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 435 lb x 5 — Actual RPE: ___
 - Target RPE: 7–8
-- Repeat Week 7 Friday 425x5x3 @7/7/8, preferably with same belt/sleeves. Hold, do not increase this week.
+- Week 8 increased +10 lb from original prescription (425 to 435) at athlete request. Week 7 Friday 425x5x3 @7/7/8 with belt and sleeves. Only attempt 435 if warmups are smooth and Tuesday recovery is good; cap RPE at 8 and reduce to 425 or lower if needed.
 - Groin during ___/10; after ___/10; next day ___/10.
 
 ### Close-Grip Bench Press
