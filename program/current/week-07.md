@@ -96,9 +96,9 @@ Completed squat, close-grip bench, and leg extension; lat pulldown and lateral r
 - Athlete reports no groin pain. Knee sleeves and belt reintroduced on this day; track equipment consistently.
 
 ### Close-Grip Bench Press
-- [x] Set 1 — 250 lb x 6 — Actual RPE: 'same as previous RPE' (numeric value not specified)
-- [x] Set 2 — 250 lb x 6 — Actual RPE: 'same as previous RPE' (numeric value not specified)
-- [x] Set 3 — 250 lb x 6 — Actual RPE: 'same as previous RPE' (numeric value not specified)
+- [x] Set 1 — 250 lb x 6 — Actual RPE: 7
+- [x] Set 2 — 250 lb x 6 — Actual RPE: 7
+- [x] Set 3 — 250 lb x 6 — Actual RPE: 7
 
 ### Medium-Close Neutral-Grip Lat Pulldown
 - Skipped.
