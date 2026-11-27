@@ -1,132 +1,218 @@
-# Mini-cut Week 1
-Start: 2026-11-30 (assumed schedule; shift if needed)
-Status: Planned only. Calibrate loads using readiness and confirmed performance. 
-Read [phase rules](README.md). Thursday and Sunday rest. No makeup sessions. All weights lb.
+# Mini-cut Week 1 — Strength and Muscle Retention — Baseline
+Start date: Monday, November 30, 2026 (assumed schedule; shift if needed)
+Status: Planned only. Calibrate loads using readiness and confirmed performance.
 
-## Monday — Bench strength
-Morning BW ___ lb | Sleep ___ h | Hydration ___/5 | Energy ___/5 | Soreness ___/5
+## Objective and decisions
+Calibrate sustainable working loads in the deficit. Preserve strength and muscle without forcing progression.
+See [mini-cut phase rules](README.md) for nutrition, research, autoregulation and return-to-training guidance.
 
-### Competition bench press
-Planned: 275 lb — 3 × 5; target RPE 7–8.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
+## Check-in fields
+Track morning bodyweight, sleep hours, hydration (1–5), pre-training energy (1–5), and soreness (1–5). Training time and caffeine remain excluded.
 
-### Barbell seal row
-Planned: 155 lb — 3 × 12–14; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+## Logging and safety
+- Log actual RPE for EVERY main-lift working set; accessories last-set RPE only.
+- Prescribed weights and reps are targets. If adjusted, record actual load and reps on the set line.
+- If a working set exceeds RPE 8 or technique degrades, reduce load 2.5–5% or shorten the work. No grinders or failure.
+- Track groin symptoms during/after/next day for squat and sumo. Modify or stop if symptoms recur or worsen; seek evaluation if persistent.
+- Keep belt and knee sleeves consistent for competition squats. Saturday optional; no makeup volume.
 
-### Incline dumbbell press (per hand)
-Planned: 75 lb — 2 × 10–12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+---
 
-### Dumbbell lateral raise (per hand)
-Planned: 30 lb — 2 × 12–15; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+## Day 1 — Monday, November 30
+Bench strength + upper hypertrophy.
 
-### Dumbbell skull crusher (per hand)
-Planned: 30 lb — 2 × 10–11; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Readiness
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+- Hydration (1–5): ___
+- Energy (1–5): ___
+- Soreness (1–5): ___
 
-## Tuesday — Squat and sumo
-Morning BW ___ lb | Sleep ___ h | Hydration ___/5 | Energy ___/5 | Soreness ___/5
+### Competition Bench Press
+- [ ] Set 1 — 275 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 275 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 275 lb x 5 — Actual RPE: ___
+- Target RPE: 7–8
 
-### Competition squat (belt and sleeves)
-Planned: 415 lb — 3 × 5; target RPE 7–8.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
-Groin during ___/10; after ___/10; next day ___/10.
+### Barbell Seal Row
+- Planned: 155 lb — 3x12–14; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Frog-stance sumo deadlift
-Planned: 425 lb — 3 × 3; target RPE 6–7 or lower.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
-Groin during ___/10; after ___/10; next day ___/10.
+### Incline Dumbbell Press
+- Planned: 75 lb per hand — 2x10–12; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Bilateral plate-loaded squat press
-Planned: 360 lb — 2 × 10–12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Dumbbell Lateral Raise
+- Planned: 30 lb per hand — 2x12–15; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Bilateral lying leg curl
-Planned: 60 lb — 2 × 10–11; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Dumbbell Skull Crusher
+- Planned: 30 lb per hand — 2x10–11; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Bilateral leg extension
-Planned: 150 lb — 1 × 10–12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+---
 
-## Wednesday — Bench volume
-Morning BW ___ lb | Sleep ___ h | Hydration ___/5 | Energy ___/5 | Soreness ___/5
+## Day 2 — Tuesday, December 1
+Squat strength + symptom-guided sumo.
 
-### Competition bench press
-Planned: 255 lb — 3 × 6; target RPE 6–7.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
+### Readiness
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+- Hydration (1–5): ___
+- Energy (1–5): ___
+- Soreness (1–5): ___
 
-### Barbell seal row
-Planned: 155 lb — 3 × 12–14; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Competition Squat (Belt And Sleeves)
+- [ ] Set 1 — 415 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 415 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 415 lb x 5 — Actual RPE: ___
+- Target RPE: 7–8
+- Groin during ___/10; after ___/10; next day ___/10.
 
-### High-to-low cable chest fly
-Planned: 100 lb — 1 × 12–15; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Frog-Stance Sumo Deadlift
+- [ ] Set 1 — 425 lb x 3 — Actual RPE: ___
+- [ ] Set 2 — 425 lb x 3 — Actual RPE: ___
+- [ ] Set 3 — 425 lb x 3 — Actual RPE: ___
+- Target RPE: 6–7 or lower
+- Groin during ___/10; after ___/10; next day ___/10.
 
-### Dumbbell lateral raise (per hand)
-Planned: 30 lb — 2 × 12–15; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Bilateral Plate-Loaded Squat Press
+- Planned: 360 lb — 2x10–12; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Cable triceps pressdown
-Planned: 100 lb — 1 × 12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Bilateral Lying Leg Curl
+- Planned: 60 lb — 2x10–11; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-## Friday — Squat and close-grip bench
-Morning BW ___ lb | Sleep ___ h | Hydration ___/5 | Energy ___/5 | Soreness ___/5
+### Bilateral Leg Extension
+- Planned: 150 lb — 1x10–12; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Competition squat (belt and sleeves)
-Planned: 425 lb — 3 × 5; target RPE 7–8.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
-Groin during ___/10; after ___/10; next day ___/10.
+---
 
-### Close-grip bench press
-Planned: 250 lb — 3 × 6; target RPE 7–8.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-- [ ] Set 3: actual load ___ / reps ___ / RPE ___
+## Day 3 — Wednesday, December 2
+Bench volume + upper hypertrophy.
 
-### Medium-close neutral-grip lat pulldown
-Planned: 115 lb — 2 × 12–13; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Readiness
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+- Hydration (1–5): ___
+- Energy (1–5): ___
+- Soreness (1–5): ___
 
-### Bilateral leg extension
-Planned: 140 lb — 1 × 10–12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Competition Bench Press
+- [ ] Set 1 — 255 lb x 6 — Actual RPE: ___
+- [ ] Set 2 — 255 lb x 6 — Actual RPE: ___
+- [ ] Set 3 — 255 lb x 6 — Actual RPE: ___
+- Target RPE: 6–7
 
-### Dumbbell lateral raise (per hand)
-Planned: 30 lb — 2 × 12–15; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+### Barbell Seal Row
+- Planned: 155 lb — 3x12–14; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-## Saturday — Optional technique only
-Morning BW ___ lb | Sleep ___ h | Hydration ___/5 | Energy ___/5 | Soreness ___/5
+### High-to-Low Cable Chest Fly
+- Planned: 100 lb — 1x12–15; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Controlled-eccentric squat (3-second descent)
-Planned: 295 lb — 2 × 5; target RPE 4–6.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
-Groin during ___/10; after ___/10; next day ___/10.
+### Dumbbell Lateral Raise
+- Planned: 30 lb per hand — 2x12–15; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Competition bench press
-Planned: 225 lb — 2 × 8; target RPE 5–6.
-- [ ] Set 1: actual load ___ / reps ___ / RPE ___
-- [ ] Set 2: actual load ___ / reps ___ / RPE ___
+### Cable Triceps Pressdown
+- Planned: 100 lb — 1x12; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
 
-### Bilateral lying leg curl
-Planned: 55 lb — 1 × 12; target RPE 7–8.
-Actual sets/reps/load: ___; last-set RPE: ___
+---
 
-## Weekly review
-7-day average weight ___; change ___; main-lift RPE trend ___; completed sessions/sets ___; soreness/recovery ___; groin response ___; next-week decision ___ .
+## Thursday, December 3
+Rest. No makeup volume.
+
+---
+
+## Day 4 — Friday, December 4
+Squat strength + close-grip bench.
+
+### Readiness
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+- Hydration (1–5): ___
+- Energy (1–5): ___
+- Soreness (1–5): ___
+
+### Competition Squat (Belt And Sleeves)
+- [ ] Set 1 — 425 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 425 lb x 5 — Actual RPE: ___
+- [ ] Set 3 — 425 lb x 5 — Actual RPE: ___
+- Target RPE: 7–8
+- Groin during ___/10; after ___/10; next day ___/10.
+
+### Close-Grip Bench Press
+- [ ] Set 1 — 250 lb x 6 — Actual RPE: ___
+- [ ] Set 2 — 250 lb x 6 — Actual RPE: ___
+- [ ] Set 3 — 250 lb x 6 — Actual RPE: ___
+- Target RPE: 7–8
+
+### Medium-Close Neutral-Grip Lat Pulldown
+- Planned: 115 lb — 2x12–13; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
+
+### Bilateral Leg Extension
+- Planned: 140 lb — 1x10–12; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
+
+### Dumbbell Lateral Raise
+- Planned: 30 lb per hand — 2x12–15; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
+
+---
+
+## Day 5 — Saturday, December 5
+Optional short technique session; skip if fatigued or unavailable.
+
+### Readiness
+- Bodyweight: ___ lb
+- Sleep: ___ hours
+- Hydration (1–5): ___
+- Energy (1–5): ___
+- Soreness (1–5): ___
+
+### Controlled-Eccentric Squat (3-Second Descent)
+- [ ] Set 1 — 295 lb x 5 — Actual RPE: ___
+- [ ] Set 2 — 295 lb x 5 — Actual RPE: ___
+- Target RPE: 4–6
+- Groin during ___/10; after ___/10; next day ___/10.
+
+### Competition Bench Press
+- [ ] Set 1 — 225 lb x 8 — Actual RPE: ___
+- [ ] Set 2 — 225 lb x 8 — Actual RPE: ___
+- Target RPE: 5–6
+
+### Bilateral Lying Leg Curl
+- Planned: 55 lb — 1x12 optional; target last-set RPE: 7–8
+- Actual sets/reps/load: ___
+- Actual last-set RPE: ___
+
+---
+
+## Sunday, December 6 — Weekly Review
+- 7-day average bodyweight: ___ lb
+- Weekly weight change: ___ lb
+- Main-lift RPE trend: ___
+- Completed sessions/sets: ___
+- Soreness/recovery: ___
+- Groin response: ___
+- Next-week decision: ___
